@@ -18,7 +18,9 @@ namespace ATD_ID4P
         {
             InitializeComponent();
         }
-
+        /// <summary>
+        /// test
+        /// </summary>
         private SqlCls Sql = new SqlCls();
         public PLCCommu PLCCom = new PLCCommu();
         private ABBCommu ABBCom = new ABBCommu();
