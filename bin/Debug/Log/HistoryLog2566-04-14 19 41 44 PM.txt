@@ -1,0 +1,3 @@
+2566-04-14 19:41:42;Warning;ATD_ID4P.Class.ABBCommu.FindRobotByIP[33];Robot not found!!!#
+2566-04-14 19:41:43;Notes;ATD_ID4P.frmMain.FrmMain_Load[61];[ID4P]Start:14/04/2566 19:41:43#
+2566-04-14 19:41:44;Notes;ATD_ID4P.frmMain.btnCloseMenu_Click[388];[ID4P]Close:14/04/2566 19:41:44#

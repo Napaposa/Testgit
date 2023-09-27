@@ -1,0 +1,49 @@
+{
+  "MaterialNo": "ABC123",
+  "SOs": [
+    {
+      "SetPoint": {
+        "Sheet": 10,
+        "Bundle": 5
+      },
+      "Previous": {
+        "Sheet": 8,
+        "Bundle": 2
+      },
+      "PlacedPallet": [
+        {
+          "Sheet": 10,
+          "Bundle": 5,
+          "Pattern": "C0422"
+        },
+        {
+          "Sheet": 8,
+          "Bundle": 1,
+          "Pattern": "S0422"
+        }
+      ]
+    },
+    {
+      "SetPoint": {
+        "Sheet": 12,
+        "Bundle": 3
+      },
+      "Previous": {
+        "Sheet": 10,
+        "Bundle": 5
+      },
+      "PlacedPallet": [
+        {
+          "Sheet": 12,
+          "Bundle": 3,
+          "Pattern": "C0111"
+        },
+        {
+          "Sheet": 12,
+          "Bundle": 3,
+          "Pattern": "S0842"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+[
+  {
+    "ID": 1,
+    "Code": "C0111",
+    "L_Side": 1,
+    "W_Side": 1,
+    "BundlePerLayer": 1
+  },
+  {
+    "ID": 2,
+    "Code": "C0221",
+    "L_Side": 2,
+    "W_Side": 1,
+    "BundlePerLayer": 2
+  },
+  {
+    "ID": 3,
+    "Code": "I0321",
+    "L_Side": 2,
+    "W_Side": 1,
+    "BundlePerLayer": 3
+  },
+  {
+    "ID": 4,
+    "Code": "C0331",
+    "L_Side": 3,
+    "W_Side": 1,
+    "BundlePerLayer": 3
+  },
+  {
+    "ID": 5,
+    "Code": "S0422",
+    "L_Side": 2,
+    "W_Side": 2,
+    "BundlePerLayer": 4
+  },
+  {
+    "ID": 6,
+    "Code": "C0441",
+    "L_Side": 4,
+    "W_Side": 1,
+    "BundlePerLayer": 4
+  },
+  {
+    "ID": 7,
+    "Code": "C0422",
+    "L_Side": 2,
+    "W_Side": 2,
+    "BundlePerLayer": 4
+  },
+  {
+    "ID": 8,
+    "Code": "I0532",
+    "L_Side": 3,
+    "W_Side": 2,
+    "BundlePerLayer": 5
+  },
+  {
+    "ID": 9,
+    "Code": "I0642",
+    "L_Side": 4,
+    "W_Side": 2,
+    "BundlePerLayer": 6
+  },
+  {
+    "ID": 10,
+    "Code": "C0661",
+    "L_Side": 6,
+    "W_Side": 1,
+    "BundlePerLayer": 6
+  },
+  {
+    "ID": 11,
+    "Code": "C0632",
+    "L_Side": 3,
+    "W_Side": 2,
+    "BundlePerLayer": 6
+  },
+  {
+    "ID": 12,
+    "Code": "I0752",
+    "L_Side": 5,
+    "W_Side": 2,
+    "BundlePerLayer": 7
+  },
+  {
+    "ID": 13,
+    "Code": "I0734",
+    "L_Side": 3,
+    "W_Side": 4,
+    "BundlePerLayer": 7
+  },
+  {
+    "ID": 14,
+    "Code": "S0844",
+    "L_Side": 4,
+    "W_Side": 4,
+    "BundlePerLayer": 8
+  },
+  {
+    "ID": 15,
+    "Code": "C0818",
+    "L_Side": 8,
+    "W_Side": 1,
+    "BundlePerLayer": 8
+  },
+  {
+    "ID": 16,
+    "Code": "C0824",
+    "L_Side": 8,
+    "W_Side": 2,
+    "BundlePerLayer": 8
+  },
+  {
+    "ID": 17,
+    "Code": "C0933",
+    "L_Side": "3",
+    "W_Side": "3",
+    "BundlePerLayer": "9"
+  },
+  {
+    "ID": 18,
+    "Code": "C0919",
+    "L_Side": "9",
+    "W_Side": "1",
+    "BundlePerLayer": "9"
+  },
+  {
+    "ID": 19,
+    "Code": "S1266",
+    "L_Side": "6",
+    "W_Side": "6",
+    "BundlePerLayer": "12"
+  },
+  {
+    "ID": 20,
+    "Code": "C1243",
+    "L_Side": "4",
+    "W_Side": "3",
+    "BundlePerLayer": "12"
+  },
+  {
+    "ID": 21,
+    "Code": "C1427",
+    "L_Side": "7",
+    "W_Side": "2",
+    "BundlePerLayer": "14"
+  },
+  {
+    "ID": 22,
+    "Code": "S1688",
+    "L_Side": "8",
+    "W_Side": "8",
+    "BundlePerLayer": "16"
+  },
+  {
+    "ID": 23,
+    "Code": "C2054",
+    "L_Side": "5",
+    "W_Side": "4",
+    "BundlePerLayer": "20"
+  },
+  {
+    "ID": 24,
+    "Code": "C2446",
+    "L_Side": "6",
+    "W_Side": "4",
+    "BundlePerLayer": "24"
+  },
+  {
+    "ID": 25,
+    "Code": "S3216",
+    "L_Side": "16",
+    "W_Side": "16",
+    "BundlePerLayer": "32"
+  },
+  {
+    "ID": 26,
+    "Code": "I0312",
+    "L_Side": "2",
+    "W_Side": "2",
+    "BundlePerLayer": "3"
+  },
+  {
+    "ID": 27,
+    "Code": "I1043",
+    "L_Side": "4",
+    "W_Side": "3",
+    "BundlePerLayer": "10"
+  },
+  {
+    "ID": 28,
+    "Code": "I1134",
+    "L_Side": "3",
+    "W_Side": "4",
+    "BundlePerLayer": "11"
+  },
+  {
+    "ID": 29,
+    "Code": "I0221",
+    "L_Side": "2",
+    "W_Side": "1",
+    "BundlePerLayer": "2"
+  }
+]

@@ -1,0 +1,4901 @@
+[
+	{
+		"Pattern": "C0111",
+		"YStep1": 17,
+		"YStep2": 0,
+		"BDS": [
+			{
+				"No": 1,
+				"Width": 135,
+				"Length": 105,
+				"Height": 18,
+				"X": -22,
+				"Y": 90,
+				"Ori": 0
+			},
+			{
+				"No": 2,
+				"Width": 135,
+				"Length": 105,
+				"Height": 18,
+				"X": -22,
+				"Y": 73,
+				"Ori": 0
+			}
+		],
+		"OrderStep": []
+	},
+	{
+		"Pattern": "C0221",
+		"YStep1": 14,
+		"YStep2": 0,
+		"BDS": [
+			{
+				"No": 1,
+				"Width": 60,
+				"Length": 82,
+				"Height": 15,
+				"X": -46,
+				"Y": 79,
+				"Ori": 0
+			},
+			{
+				"No": 2,
+				"Width": 60,
+				"Length": 82,
+				"Height": 15,
+				"X": 5,
+				"Y": 100,
+				"Ori": 0
+			},
+			{
+				"No": 3,
+				"Width": 60,
+				"Length": 82,
+				"Height": 15,
+				"X": -46,
+				"Y": 65,
+				"Ori": 0
+			},
+			{
+				"No": 4,
+				"Width": 60,
+				"Length": 82,
+				"Height": 15,
+				"X": 5,
+				"Y": 86,
+				"Ori": 0
+			}
+		],
+		"OrderStep": []
+	},
+	{
+		"Pattern": "I0321",
+		"YStep1": 33,
+		"YStep2": 0,
+		"BDS": [
+			{
+				"No": 1,
+				"Width": 53,
+				"Length": 68,
+				"Height": 18,
+				"X": 7,
+				"Y": 103,
+				"Ori": 0
+			},
+			{
+				"No": 2,
+				"Width": 53,
+				"Length": 68,
+				"Height": 18,
+				"X": -58,
+				"Y": 94,
+				"Ori": 1
+			},
+			{
+				"No": 3,
+				"Width": 53,
+				"Length": 68,
+				"Height": 18,
+				"X": -26,
+				"Y": 68,
+				"Ori": 1
+			},
+			{
+				"No": 4,
+				"Width": 53,
+				"Length": 68,
+				"Height": 18,
+				"X": -47,
+				"Y": 59,
+				"Ori": 0
+			},
+			{
+				"No": 5,
+				"Width": 53,
+				"Length": 68,
+				"Height": 18,
+				"X": -13,
+				"Y": 96,
+				"Ori": 1
+			},
+			{
+				"No": 6,
+				"Width": 53,
+				"Length": 68,
+				"Height": 18,
+				"X": 19,
+				"Y": 69,
+				"Ori": 1
+			},
+			{
+				"No": 7,
+				"Width": 53,
+				"Length": 68,
+				"Height": 18,
+				"X": 7,
+				"Y": 70,
+				"Ori": 0
+			},
+			{
+				"No": 8,
+				"Width": 53,
+				"Length": 68,
+				"Height": 18,
+				"X": -58,
+				"Y": 61,
+				"Ori": 1
+			},
+			{
+				"No": 9,
+				"Width": 53,
+				"Length": 68,
+				"Height": 18,
+				"X": -26,
+				"Y": 35,
+				"Ori": 1
+			},
+			{
+				"No": 10,
+				"Width": 53,
+				"Length": 68,
+				"Height": 18,
+				"X": -47,
+				"Y": 26,
+				"Ori": 0
+			},
+			{
+				"No": 11,
+				"Width": 53,
+				"Length": 68,
+				"Height": 18,
+				"X": -13,
+				"Y": 63,
+				"Ori": 1
+			},
+			{
+				"No": 12,
+				"Width": 53,
+				"Length": 68,
+				"Height": 18,
+				"X": 19,
+				"Y": 36,
+				"Ori": 1
+			}
+		],
+		"OrderStep": [
+			3,
+			2,
+			1,
+			4,
+			6,
+			5,
+			9,
+			8,
+			7,
+			10,
+			12,
+			11
+		]
+	},
+	{
+		"Pattern": "C0331",
+		"YStep1": 16,
+		"YStep2": 0,
+		"BDS": [
+			{
+				"No": 1,
+				"Width": 53,
+				"Length": 75,
+				"Height": 18,
+				"X": -70,
+				"Y": 70,
+				"Ori": 0
+			},
+			{
+				"No": 2,
+				"Width": 53,
+				"Length": 75,
+				"Height": 18,
+				"X": -24,
+				"Y": 90,
+				"Ori": 0
+			},
+			{
+				"No": 3,
+				"Width": 53,
+				"Length": 75,
+				"Height": 18,
+				"X": 22,
+				"Y": 110,
+				"Ori": 0
+			},
+			{
+				"No": 4,
+				"Width": 53,
+				"Length": 75,
+				"Height": 18,
+				"X": -70,
+				"Y": 54,
+				"Ori": 0
+			},
+			{
+				"No": 5,
+				"Width": 53,
+				"Length": 75,
+				"Height": 18,
+				"X": -24,
+				"Y": 74,
+				"Ori": 0
+			},
+			{
+				"No": 6,
+				"Width": 53,
+				"Length": 75,
+				"Height": 18,
+				"X": 22,
+				"Y": 94,
+				"Ori": 0
+			}
+		],
+		"OrderStep": []
+	},
+	{
+		"Pattern": "S0422",
+		"YStep1": 34,
+		"YStep2": 0,
+		"BDS": [
+			{
+				"No": 1,
+				"Width": 45,
+				"Length": 72,
+				"Height": 18,
+				"X": -21,
+				"Y": 114,
+				"Ori": 1
+			},
+			{
+				"No": 2,
+				"Width": 45,
+				"Length": 72,
+				"Height": 18,
+				"X": 25,
+				"Y": 89,
+				"Ori": 0
+			},
+			{
+				"No": 3,
+				"Width": 45,
+				"Length": 72,
+				"Height": 18,
+				"X": -64,
+				"Y": 86,
+				"Ori": 0
+			},
+			{
+				"No": 4,
+				"Width": 45,
+				"Length": 72,
+				"Height": 18,
+				"X": -18,
+				"Y": 62,
+				"Ori": 1
+			},
+			{
+				"No": 5,
+				"Width": 45,
+				"Length": 72,
+				"Height": 18,
+				"X": -2,
+				"Y": 95,
+				"Ori": 0
+			},
+			{
+				"No": 6,
+				"Width": 45,
+				"Length": 72,
+				"Height": 18,
+				"X": 21,
+				"Y": 62,
+				"Ori": 1
+			},
+			{
+				"No": 7,
+				"Width": 45,
+				"Length": 72,
+				"Height": 18,
+				"X": -61,
+				"Y": 80,
+				"Ori": 1
+			},
+			{
+				"No": 8,
+				"Width": 45,
+				"Length": 72,
+				"Height": 18,
+				"X": -35,
+				"Y": 47,
+				"Ori": 0
+			},
+			{
+				"No": 9,
+				"Width": 45,
+				"Length": 72,
+				"Height": 18,
+				"X": -21,
+				"Y": 80,
+				"Ori": 1
+			},
+			{
+				"No": 10,
+				"Width": 45,
+				"Length": 72,
+				"Height": 18,
+				"X": 25,
+				"Y": 55,
+				"Ori": 0
+			},
+			{
+				"No": 11,
+				"Width": 45,
+				"Length": 72,
+				"Height": 18,
+				"X": -64,
+				"Y": 52,
+				"Ori": 0
+			},
+			{
+				"No": 12,
+				"Width": 45,
+				"Length": 72,
+				"Height": 18,
+				"X": -18,
+				"Y": 28,
+				"Ori": 1
+			},
+			{
+				"No": 13,
+				"Width": 45,
+				"Length": 72,
+				"Height": 18,
+				"X": -2,
+				"Y": 61,
+				"Ori": 0
+			},
+			{
+				"No": 14,
+				"Width": 45,
+				"Length": 72,
+				"Height": 18,
+				"X": 21,
+				"Y": 28,
+				"Ori": 1
+			},
+			{
+				"No": 15,
+				"Width": 45,
+				"Length": 72,
+				"Height": 18,
+				"X": -61,
+				"Y": 46,
+				"Ori": 1
+			},
+			{
+				"No": 16,
+				"Width": 45,
+				"Length": 72,
+				"Height": 18,
+				"X": -35,
+				"Y": 12,
+				"Ori": 0
+			}
+		],
+		"OrderStep": [
+			4,
+			3,
+			2,
+			1,
+			8,
+			7,
+			6,
+			5,
+			12,
+			11,
+			10,
+			9,
+			16,
+			15,
+			14,
+			13
+		]
+	},
+	{
+		"Pattern": "C0422",
+		"YStep1": 16,
+		"YStep2": 0,
+		"BDS": [
+			{
+				"No": 1,
+				"Width": 60,
+				"Length": 75,
+				"Height": 18,
+				"X": -16,
+				"Y": 116,
+				"Ori": 0
+			},
+			{
+				"No": 2,
+				"Width": 60,
+				"Length": 75,
+				"Height": 18,
+				"X": 28,
+				"Y": 79,
+				"Ori": 0
+			},
+			{
+				"No": 3,
+				"Width": 60,
+				"Length": 75,
+				"Height": 18,
+				"X": -68,
+				"Y": 94,
+				"Ori": 0
+			},
+			{
+				"No": 4,
+				"Width": 60,
+				"Length": 75,
+				"Height": 18,
+				"X": -23,
+				"Y": 58,
+				"Ori": 0
+			},
+			{
+				"No": 5,
+				"Width": 60,
+				"Length": 75,
+				"Height": 18,
+				"X": -16,
+				"Y": 100,
+				"Ori": 0
+			},
+			{
+				"No": 6,
+				"Width": 60,
+				"Length": 75,
+				"Height": 18,
+				"X": 28,
+				"Y": 63,
+				"Ori": 0
+			},
+			{
+				"No": 7,
+				"Width": 60,
+				"Length": 75,
+				"Height": 18,
+				"X": -68,
+				"Y": 78,
+				"Ori": 0
+			},
+			{
+				"No": 8,
+				"Width": 60,
+				"Length": 75,
+				"Height": 18,
+				"X": -23,
+				"Y": 42,
+				"Ori": 0
+			}
+		],
+		"OrderStep": [
+			4,
+			3,
+			2,
+			1,
+			8,
+			7,
+			6,
+			5,
+			12,
+			11,
+			10,
+			9,
+			16,
+			15,
+			14,
+			13
+		]
+	},
+	{
+		"Pattern": "C0441",
+		"YStep1": 17,
+		"YStep2": 0,
+		"BDS": [
+			{
+				"No": 1,
+				"Width": 45,
+				"Length": 105,
+				"Height": 18,
+				"X": 38,
+				"Y": 110,
+				"Ori": 0
+			},
+			{
+				"No": 2,
+				"Width": 45,
+				"Length": 105,
+				"Height": 18,
+				"X": -2,
+				"Y": 93,
+				"Ori": 0
+			},
+			{
+				"No": 3,
+				"Width": 45,
+				"Length": 105,
+				"Height": 18,
+				"X": -42,
+				"Y": 76,
+				"Ori": 0
+			},
+			{
+				"No": 4,
+				"Width": 45,
+				"Length": 105,
+				"Height": 18,
+				"X": -81,
+				"Y": 59,
+				"Ori": 0
+			},
+			{
+				"No": 5,
+				"Width": 45,
+				"Length": 105,
+				"Height": 18,
+				"X": 38,
+				"Y": 93,
+				"Ori": 0
+			},
+			{
+				"No": 6,
+				"Width": 45,
+				"Length": 105,
+				"Height": 18,
+				"X": -2,
+				"Y": 76,
+				"Ori": 0
+			},
+			{
+				"No": 7,
+				"Width": 45,
+				"Length": 105,
+				"Height": 18,
+				"X": -42,
+				"Y": 59,
+				"Ori": 0
+			},
+			{
+				"No": 8,
+				"Width": 45,
+				"Length": 105,
+				"Height": 18,
+				"X": -81,
+				"Y": 42,
+				"Ori": 0
+			}
+		],
+		"OrderStep": [
+			4,
+			3,
+			2,
+			1,
+			8,
+			7,
+			6,
+			5,
+			12,
+			11,
+			10,
+			9,
+			16,
+			15,
+			14,
+			13
+		]
+	},
+	{
+		"Pattern": "I0532",
+		"YStep1": 35,
+		"YStep2": 0,
+		"BDS": [
+			{
+				"No": 1,
+				"Width": 57,
+				"Length": 87,
+				"Height": 18,
+				"X": 16,
+				"Y": 118,
+				"Ori": 0
+			},
+			{
+				"No": 2,
+				"Width": 57,
+				"Length": 87,
+				"Height": 18,
+				"X": -33,
+				"Y": 98,
+				"Ori": 0
+			},
+			{
+				"No": 3,
+				"Width": 57,
+				"Length": 87,
+				"Height": 18,
+				"X": 45,
+				"Y": 77,
+				"Ori": 1
+			},
+			{
+				"No": 4,
+				"Width": 57,
+				"Length": 87,
+				"Height": 18,
+				"X": -82,
+				"Y": 78,
+				"Ori": 0
+			},
+			{
+				"No": 5,
+				"Width": 57,
+				"Length": 87,
+				"Height": 18,
+				"X": -28,
+				"Y": 48,
+				"Ori": 1
+			},
+			{
+				"No": 6,
+				"Width": 57,
+				"Length": 87,
+				"Height": 18,
+				"X": -5,
+				"Y": 102,
+				"Ori": 1
+			},
+			{
+				"No": 7,
+				"Width": 57,
+				"Length": 87,
+				"Height": 18,
+				"X": 51,
+				"Y": 71,
+				"Ori": 0
+			},
+			{
+				"No": 8,
+				"Width": 57,
+				"Length": 87,
+				"Height": 18,
+				"X": -79,
+				"Y": 72,
+				"Ori": 1
+			},
+			{
+				"No": 9,
+				"Width": 57,
+				"Length": 87,
+				"Height": 18,
+				"X": 3,
+				"Y": 50,
+				"Ori": 0
+			},
+			{
+				"No": 10,
+				"Width": 57,
+				"Length": 87,
+				"Height": 18,
+				"X": -46,
+				"Y": 31,
+				"Ori": 0
+			},
+			{
+				"No": 11,
+				"Width": 57,
+				"Length": 87,
+				"Height": 18,
+				"X": 16,
+				"Y": 83,
+				"Ori": 0
+			},
+			{
+				"No": 12,
+				"Width": 57,
+				"Length": 87,
+				"Height": 18,
+				"X": -33,
+				"Y": 63,
+				"Ori": 0
+			},
+			{
+				"No": 13,
+				"Width": 57,
+				"Length": 87,
+				"Height": 18,
+				"X": 45,
+				"Y": 42,
+				"Ori": 1
+			},
+			{
+				"No": 14,
+				"Width": 57,
+				"Length": 87,
+				"Height": 18,
+				"X": -82,
+				"Y": 43,
+				"Ori": 0
+			},
+			{
+				"No": 15,
+				"Width": 57,
+				"Length": 87,
+				"Height": 18,
+				"X": -28,
+				"Y": 12,
+				"Ori": 1
+			},
+			{
+				"No": 16,
+				"Width": 57,
+				"Length": 87,
+				"Height": 18,
+				"X": -5,
+				"Y": 67,
+				"Ori": 1
+			},
+			{
+				"No": 17,
+				"Width": 57,
+				"Length": 87,
+				"Height": 18,
+				"X": 51,
+				"Y": 35,
+				"Ori": 0
+			},
+			{
+				"No": 18,
+				"Width": 57,
+				"Length": 87,
+				"Height": 18,
+				"X": -79,
+				"Y": 37,
+				"Ori": 1
+			},
+			{
+				"No": 19,
+				"Width": 57,
+				"Length": 87,
+				"Height": 18,
+				"X": 3,
+				"Y": 15,
+				"Ori": 0
+			},
+			{
+				"No": 20,
+				"Width": 57,
+				"Length": 87,
+				"Height": 18,
+				"X": -46,
+				"Y": -5,
+				"Ori": 0
+			}
+		],
+		"OrderStep": [
+			5,
+			3,
+			4,
+			2,
+			1,
+			10,
+			9,
+			7,
+			8,
+			6,
+			15,
+			13,
+			14,
+			12,
+			11,
+			20,
+			19,
+			17,
+			18,
+			16
+		]
+	},
+	{
+		"Pattern": "I0642",
+		"YStep1": 35,
+		"YStep2": 0,
+		"BDS": [
+			{
+				"No": 1,
+				"Width": 42,
+				"Length": 87,
+				"Height": 18,
+				"X": 20,
+				"Y": 119,
+				"Ori": 0
+			},
+			{
+				"No": 2,
+				"Width": 42,
+				"Length": 87,
+				"Height": 18,
+				"X": -16,
+				"Y": 104,
+				"Ori": 0
+			},
+			{
+				"No": 3,
+				"Width": 42,
+				"Length": 87,
+				"Height": 18,
+				"X": 38,
+				"Y": 80,
+				"Ori": 1
+			},
+			{
+				"No": 4,
+				"Width": 42,
+				"Length": 87,
+				"Height": 18,
+				"X": -84,
+				"Y": 92,
+				"Ori": 1
+			},
+			{
+				"No": 5,
+				"Width": 42,
+				"Length": 87,
+				"Height": 18,
+				"X": -27,
+				"Y": 68,
+				"Ori": 0
+			},
+			{
+				"No": 6,
+				"Width": 42,
+				"Length": 87,
+				"Height": 18,
+				"X": -63,
+				"Y": 54,
+				"Ori": 0
+			},
+			{
+				"No": 7,
+				"Width": 42,
+				"Length": 87,
+				"Height": 18,
+				"X": -11,
+				"Y": 104,
+				"Ori": 1
+			},
+			{
+				"No": 8,
+				"Width": 42,
+				"Length": 87,
+				"Height": 18,
+				"X": 46,
+				"Y": 80,
+				"Ori": 0
+			},
+			{
+				"No": 9,
+				"Width": 42,
+				"Length": 87,
+				"Height": 18,
+				"X": 11,
+				"Y": 66,
+				"Ori": 0
+			},
+			{
+				"No": 10,
+				"Width": 42,
+				"Length": 87,
+				"Height": 18,
+				"X": -52,
+				"Y": 73,
+				"Ori": 0
+			},
+			{
+				"No": 11,
+				"Width": 42,
+				"Length": 87,
+				"Height": 18,
+				"X": -88,
+				"Y": 58,
+				"Ori": 0
+			},
+			{
+				"No": 12,
+				"Width": 42,
+				"Length": 87,
+				"Height": 18,
+				"X": -32,
+				"Y": 34,
+				"Ori": 1
+			},
+			{
+				"No": 13,
+				"Width": 42,
+				"Length": 87,
+				"Height": 18,
+				"X": 20,
+				"Y": 84,
+				"Ori": 0
+			},
+			{
+				"No": 14,
+				"Width": 42,
+				"Length": 87,
+				"Height": 18,
+				"X": -15,
+				"Y": 69,
+				"Ori": 0
+			},
+			{
+				"No": 15,
+				"Width": 42,
+				"Length": 87,
+				"Height": 18,
+				"X": 38,
+				"Y": 45,
+				"Ori": 1
+			},
+			{
+				"No": 16,
+				"Width": 42,
+				"Length": 87,
+				"Height": 18,
+				"X": -83,
+				"Y": 58,
+				"Ori": 1
+			},
+			{
+				"No": 17,
+				"Width": 42,
+				"Length": 87,
+				"Height": 18,
+				"X": -26,
+				"Y": 33,
+				"Ori": 0
+			},
+			{
+				"No": 18,
+				"Width": 42,
+				"Length": 87,
+				"Height": 18,
+				"X": -62,
+				"Y": 19,
+				"Ori": 0
+			},
+			{
+				"No": 19,
+				"Width": 42,
+				"Length": 87,
+				"Height": 18,
+				"X": -11,
+				"Y": 69,
+				"Ori": 1
+			},
+			{
+				"No": 20,
+				"Width": 42,
+				"Length": 87,
+				"Height": 18,
+				"X": 46,
+				"Y": 45,
+				"Ori": 0
+			},
+			{
+				"No": 21,
+				"Width": 42,
+				"Length": 87,
+				"Height": 18,
+				"X": 11,
+				"Y": 31,
+				"Ori": 0
+			},
+			{
+				"No": 22,
+				"Width": 42,
+				"Length": 87,
+				"Height": 18,
+				"X": -52,
+				"Y": 38,
+				"Ori": 0
+			},
+			{
+				"No": 23,
+				"Width": 42,
+				"Length": 87,
+				"Height": 18,
+				"X": -88,
+				"Y": 23,
+				"Ori": 0
+			},
+			{
+				"No": 24,
+				"Width": 42,
+				"Length": 87,
+				"Height": 18,
+				"X": -32,
+				"Y": 0,
+				"Ori": 1
+			}
+		],
+		"OrderStep": [
+			6,
+			5,
+			3,
+			4,
+			2,
+			1,
+			12,
+			11,
+			10,
+			9,
+			8,
+			7,
+			18,
+			17,
+			16,
+			15,
+			14,
+			13,
+			24,
+			23,
+			22,
+			21,
+			20,
+			19
+		]
+	},
+	{
+		"Pattern": "C0661",
+		"YStep1": 17,
+		"YStep2": 0,
+		"BDS": [
+			{
+				"No": 1,
+				"Width": 30,
+				"Length": 120,
+				"Height": 18,
+				"X": 46,
+				"Y": 113,
+				"Ori": 0
+			},
+			{
+				"No": 2,
+				"Width": 30,
+				"Length": 120,
+				"Height": 18,
+				"X": 20,
+				"Y": 102,
+				"Ori": 0
+			},
+			{
+				"No": 3,
+				"Width": 30,
+				"Length": 120,
+				"Height": 18,
+				"X": -6,
+				"Y": 92,
+				"Ori": 0
+			},
+			{
+				"No": 4,
+				"Width": 30,
+				"Length": 120,
+				"Height": 18,
+				"X": -32,
+				"Y": 81,
+				"Ori": 0
+			},
+			{
+				"No": 5,
+				"Width": 30,
+				"Length": 120,
+				"Height": 18,
+				"X": -58,
+				"Y": 70,
+				"Ori": 0
+			},
+			{
+				"No": 6,
+				"Width": 30,
+				"Length": 120,
+				"Height": 18,
+				"X": -84,
+				"Y": 59,
+				"Ori": 0
+			},
+			{
+				"No": 7,
+				"Width": 30,
+				"Length": 120,
+				"Height": 18,
+				"X": 46,
+				"Y": 96,
+				"Ori": 0
+			},
+			{
+				"No": 8,
+				"Width": 30,
+				"Length": 120,
+				"Height": 18,
+				"X": 20,
+				"Y": 85,
+				"Ori": 0
+			},
+			{
+				"No": 9,
+				"Width": 30,
+				"Length": 120,
+				"Height": 18,
+				"X": -6,
+				"Y": 75,
+				"Ori": 0
+			},
+			{
+				"No": 10,
+				"Width": 30,
+				"Length": 120,
+				"Height": 18,
+				"X": -32,
+				"Y": 64,
+				"Ori": 0
+			},
+			{
+				"No": 11,
+				"Width": 30,
+				"Length": 120,
+				"Height": 18,
+				"X": -58,
+				"Y": 53,
+				"Ori": 0
+			},
+			{
+				"No": 12,
+				"Width": 30,
+				"Length": 120,
+				"Height": 18,
+				"X": -84,
+				"Y": 42,
+				"Ori": 0
+			}
+		],
+		"OrderStep": [
+			6,
+			5,
+			4,
+			3,
+			2,
+			1,
+			12,
+			11,
+			10,
+			9,
+			8,
+			7
+		]
+	},
+	{
+		"Pattern": "C0632",
+		"YStep1": 17,
+		"YStep2": 0,
+		"BDS": [
+			{
+				"No": 1,
+				"Width": 53,
+				"Length": 68,
+				"Height": 18,
+				"X": 7,
+				"Y": 121,
+				"Ori": 0
+			},
+			{
+				"No": 2,
+				"Width": 53,
+				"Length": 68,
+				"Height": 18,
+				"X": 47,
+				"Y": 87,
+				"Ori": 0
+			},
+			{
+				"No": 3,
+				"Width": 53,
+				"Length": 68,
+				"Height": 18,
+				"X": -39,
+				"Y": 102,
+				"Ori": 0
+			},
+			{
+				"No": 4,
+				"Width": 53,
+				"Length": 68,
+				"Height": 18,
+				"X": 1,
+				"Y": 68,
+				"Ori": 0
+			},
+			{
+				"No": 5,
+				"Width": 53,
+				"Length": 68,
+				"Height": 18,
+				"X": -85,
+				"Y": 84,
+				"Ori": 0
+			},
+			{
+				"No": 6,
+				"Width": 53,
+				"Length": 68,
+				"Height": 18,
+				"X": -45,
+				"Y": 50,
+				"Ori": 0
+			},
+			{
+				"No": 7,
+				"Width": 53,
+				"Length": 68,
+				"Height": 18,
+				"X": 7,
+				"Y": 104,
+				"Ori": 0
+			},
+			{
+				"No": 8,
+				"Width": 53,
+				"Length": 68,
+				"Height": 18,
+				"X": 47,
+				"Y": 70,
+				"Ori": 0
+			},
+			{
+				"No": 9,
+				"Width": 53,
+				"Length": 68,
+				"Height": 18,
+				"X": -39,
+				"Y": 85,
+				"Ori": 0
+			},
+			{
+				"No": 10,
+				"Width": 53,
+				"Length": 68,
+				"Height": 18,
+				"X": 1,
+				"Y": 51,
+				"Ori": 0
+			},
+			{
+				"No": 11,
+				"Width": 53,
+				"Length": 68,
+				"Height": 18,
+				"X": -85,
+				"Y": 67,
+				"Ori": 0
+			},
+			{
+				"No": 12,
+				"Width": 53,
+				"Length": 68,
+				"Height": 18,
+				"X": -45,
+				"Y": 33,
+				"Ori": 0
+			}
+		],
+		"OrderStep": [
+			6,
+			5,
+			4,
+			3,
+			2,
+			1,
+			12,
+			11,
+			10,
+			9,
+			8,
+			7
+		]
+	},
+	{
+		"Pattern": "C0933",
+		"YStep1": 17,
+		"YStep2": 0,
+		"BDS": [
+			{
+				"No": 1,
+				"Width": 60,
+				"Length": 45,
+				"Height": 18,
+				"X": 10,
+				"Y": 130,
+				"Ori": 0
+			},
+			{
+				"No": 2,
+				"Width": 60,
+				"Length": 45,
+				"Height": 18,
+				"X": 38,
+				"Y": 107,
+				"Ori": 0
+			},
+			{
+				"No": 3,
+				"Width": 60,
+				"Length": 45,
+				"Height": 18,
+				"X": 66,
+				"Y": 84,
+				"Ori": 0
+			},
+			{
+				"No": 4,
+				"Width": 60,
+				"Length": 45,
+				"Height": 18,
+				"X": -43,
+				"Y": 109,
+				"Ori": 0
+			},
+			{
+				"No": 5,
+				"Width": 60,
+				"Length": 45,
+				"Height": 18,
+				"X": -14,
+				"Y": 86,
+				"Ori": 0
+			},
+			{
+				"No": 6,
+				"Width": 60,
+				"Length": 45,
+				"Height": 18,
+				"X": 14,
+				"Y": 63,
+				"Ori": 0
+			},
+			{
+				"No": 7,
+				"Width": 60,
+				"Length": 45,
+				"Height": 18,
+				"X": -96,
+				"Y": 88,
+				"Ori": 0
+			},
+			{
+				"No": 8,
+				"Width": 60,
+				"Length": 45,
+				"Height": 18,
+				"X": -67,
+				"Y": 65,
+				"Ori": 0
+			},
+			{
+				"No": 9,
+				"Width": 60,
+				"Length": 45,
+				"Height": 18,
+				"X": -38,
+				"Y": 41,
+				"Ori": 0
+			},
+			{
+				"No": 10,
+				"Width": 60,
+				"Length": 45,
+				"Height": 18,
+				"X": 10,
+				"Y": 113,
+				"Ori": 0
+			},
+			{
+				"No": 11,
+				"Width": 60,
+				"Length": 45,
+				"Height": 18,
+				"X": 38,
+				"Y": 90,
+				"Ori": 0
+			},
+			{
+				"No": 12,
+				"Width": 60,
+				"Length": 45,
+				"Height": 18,
+				"X": 66,
+				"Y": 67,
+				"Ori": 0
+			},
+			{
+				"No": 13,
+				"Width": 60,
+				"Length": 45,
+				"Height": 18,
+				"X": -43,
+				"Y": 92,
+				"Ori": 0
+			},
+			{
+				"No": 14,
+				"Width": 60,
+				"Length": 45,
+				"Height": 18,
+				"X": -14,
+				"Y": 69,
+				"Ori": 0
+			},
+			{
+				"No": 15,
+				"Width": 60,
+				"Length": 45,
+				"Height": 18,
+				"X": 14,
+				"Y": 46,
+				"Ori": 0
+			},
+			{
+				"No": 16,
+				"Width": 60,
+				"Length": 45,
+				"Height": 18,
+				"X": -96,
+				"Y": 71,
+				"Ori": 0
+			},
+			{
+				"No": 17,
+				"Width": 60,
+				"Length": 45,
+				"Height": 18,
+				"X": -67,
+				"Y": 48,
+				"Ori": 0
+			},
+			{
+				"No": 18,
+				"Width": 60,
+				"Length": 45,
+				"Height": 18,
+				"X": -38,
+				"Y": 25,
+				"Ori": 0
+			}
+		],
+		"OrderStep": [
+			9,
+			8,
+			7,
+			6,
+			5,
+			4,
+			3,
+			2,
+			1,
+			18,
+			17,
+			16,
+			15,
+			14,
+			13,
+			12,
+			11,
+			10
+		]
+	},
+	{
+		"Pattern": "S1266",
+		"YStep1": 36,
+		"YStep2": 0,
+		"BDS": [
+			{
+				"No": 1,
+				"Width": 30,
+				"Length": 51,
+				"Height": 18,
+				"X": 2,
+				"Y": 135,
+				"Ori": 0
+			},
+			{
+				"No": 2,
+				"Width": 30,
+				"Length": 51,
+				"Height": 18,
+				"X": -25,
+				"Y": 123,
+				"Ori": 0
+			},
+			{
+				"No": 3,
+				"Width": 30,
+				"Length": 51,
+				"Height": 18,
+				"X": -52,
+				"Y": 112,
+				"Ori": 0
+			},
+			{
+				"No": 4,
+				"Width": 30,
+				"Length": 51,
+				"Height": 18,
+				"X": 19,
+				"Y": 110,
+				"Ori": 1
+			},
+			{
+				"No": 5,
+				"Width": 30,
+				"Length": 51,
+				"Height": 18,
+				"X": 39,
+				"Y": 94,
+				"Ori": 1
+			},
+			{
+				"No": 6,
+				"Width": 30,
+				"Length": 51,
+				"Height": 18,
+				"X": 59,
+				"Y": 78,
+				"Ori": 1
+			},
+			{
+				"No": 7,
+				"Width": 30,
+				"Length": 51,
+				"Height": 18,
+				"X": -95,
+				"Y": 101,
+				"Ori": 1
+			},
+			{
+				"No": 8,
+				"Width": 30,
+				"Length": 51,
+				"Height": 18,
+				"X": -75,
+				"Y": 85,
+				"Ori": 1
+			},
+			{
+				"No": 9,
+				"Width": 30,
+				"Length": 51,
+				"Height": 18,
+				"X": -55,
+				"Y": 69,
+				"Ori": 1
+			},
+			{
+				"No": 10,
+				"Width": 30,
+				"Length": 51,
+				"Height": 18,
+				"X": 17,
+				"Y": 67,
+				"Ori": 0
+			},
+			{
+				"No": 11,
+				"Width": 30,
+				"Length": 51,
+				"Height": 18,
+				"X": -10,
+				"Y": 56,
+				"Ori": 0
+			},
+			{
+				"No": 12,
+				"Width": 30,
+				"Length": 51,
+				"Height": 18,
+				"X": -38,
+				"Y": 45,
+				"Ori": 0
+			},
+			{
+				"No": 13,
+				"Width": 30,
+				"Length": 51,
+				"Height": 18,
+				"X": -12,
+				"Y": 118,
+				"Ori": 1
+			},
+			{
+				"No": 14,
+				"Width": 30,
+				"Length": 51,
+				"Height": 18,
+				"X": 8,
+				"Y": 102,
+				"Ori": 1
+			},
+			{
+				"No": 15,
+				"Width": 30,
+				"Length": 51,
+				"Height": 18,
+				"X": 28,
+				"Y": 85,
+				"Ori": 1
+			},
+			{
+				"No": 16,
+				"Width": 30,
+				"Length": 51,
+				"Height": 18,
+				"X": 63,
+				"Y": 68,
+				"Ori": 0
+			},
+			{
+				"No": 17,
+				"Width": 30,
+				"Length": 51,
+				"Height": 18,
+				"X": 35,
+				"Y": 57,
+				"Ori": 0
+			},
+			{
+				"No": 18,
+				"Width": 30,
+				"Length": 51,
+				"Height": 18,
+				"X": 7,
+				"Y": 46,
+				"Ori": 0
+			},
+			{
+				"No": 19,
+				"Width": 30,
+				"Length": 51,
+				"Height": 18,
+				"X": -43,
+				"Y": 98,
+				"Ori": 0
+			},
+			{
+				"No": 20,
+				"Width": 30,
+				"Length": 51,
+				"Height": 18,
+				"X": -70,
+				"Y": 87,
+				"Ori": 0
+			},
+			{
+				"No": 21,
+				"Width": 30,
+				"Length": 51,
+				"Height": 18,
+				"X": -97,
+				"Y": 76,
+				"Ori": 0
+			},
+			{
+				"No": 22,
+				"Width": 30,
+				"Length": 51,
+				"Height": 18,
+				"X": -64,
+				"Y": 59,
+				"Ori": 1
+			},
+			{
+				"No": 23,
+				"Width": 30,
+				"Length": 51,
+				"Height": 18,
+				"X": -44,
+				"Y": 43,
+				"Ori": 1
+			},
+			{
+				"No": 24,
+				"Width": 30,
+				"Length": 51,
+				"Height": 18,
+				"X": -23,
+				"Y": 27,
+				"Ori": 1
+			},
+			{
+				"No": 25,
+				"Width": 30,
+				"Length": 51,
+				"Height": 18,
+				"X": 2,
+				"Y": 99,
+				"Ori": 0
+			},
+			{
+				"No": 26,
+				"Width": 30,
+				"Length": 51,
+				"Height": 18,
+				"X": -25,
+				"Y": 88,
+				"Ori": 0
+			},
+			{
+				"No": 27,
+				"Width": 30,
+				"Length": 51,
+				"Height": 18,
+				"X": -52,
+				"Y": 76,
+				"Ori": 0
+			},
+			{
+				"No": 28,
+				"Width": 30,
+				"Length": 51,
+				"Height": 18,
+				"X": 19,
+				"Y": 74,
+				"Ori": 1
+			},
+			{
+				"No": 29,
+				"Width": 30,
+				"Length": 51,
+				"Height": 18,
+				"X": 39,
+				"Y": 58,
+				"Ori": 1
+			},
+			{
+				"No": 30,
+				"Width": 30,
+				"Length": 51,
+				"Height": 18,
+				"X": 59,
+				"Y": 42,
+				"Ori": 1
+			},
+			{
+				"No": 31,
+				"Width": 30,
+				"Length": 51,
+				"Height": 18,
+				"X": -95,
+				"Y": 65,
+				"Ori": 1
+			},
+			{
+				"No": 32,
+				"Width": 30,
+				"Length": 51,
+				"Height": 18,
+				"X": -75,
+				"Y": 49,
+				"Ori": 1
+			},
+			{
+				"No": 33,
+				"Width": 30,
+				"Length": 51,
+				"Height": 18,
+				"X": -55,
+				"Y": 33,
+				"Ori": 1
+			},
+			{
+				"No": 34,
+				"Width": 30,
+				"Length": 51,
+				"Height": 18,
+				"X": 17,
+				"Y": 31,
+				"Ori": 0
+			},
+			{
+				"No": 35,
+				"Width": 30,
+				"Length": 51,
+				"Height": 18,
+				"X": -10,
+				"Y": 20,
+				"Ori": 0
+			},
+			{
+				"No": 36,
+				"Width": 30,
+				"Length": 51,
+				"Height": 18,
+				"X": -38,
+				"Y": 9,
+				"Ori": 0
+			},
+			{
+				"No": 37,
+				"Width": 30,
+				"Length": 51,
+				"Height": 18,
+				"X": -12,
+				"Y": 82,
+				"Ori": 1
+			},
+			{
+				"No": 38,
+				"Width": 30,
+				"Length": 51,
+				"Height": 18,
+				"X": 8,
+				"Y": 66,
+				"Ori": 1
+			},
+			{
+				"No": 39,
+				"Width": 30,
+				"Length": 51,
+				"Height": 18,
+				"X": 28,
+				"Y": 49,
+				"Ori": 1
+			},
+			{
+				"No": 40,
+				"Width": 30,
+				"Length": 51,
+				"Height": 18,
+				"X": 63,
+				"Y": 32,
+				"Ori": 0
+			},
+			{
+				"No": 41,
+				"Width": 30,
+				"Length": 51,
+				"Height": 18,
+				"X": 35,
+				"Y": 21,
+				"Ori": 0
+			},
+			{
+				"No": 42,
+				"Width": 30,
+				"Length": 51,
+				"Height": 18,
+				"X": 7,
+				"Y": 10,
+				"Ori": 0
+			},
+			{
+				"No": 43,
+				"Width": 30,
+				"Length": 51,
+				"Height": 18,
+				"X": -43,
+				"Y": 62,
+				"Ori": 0
+			},
+			{
+				"No": 44,
+				"Width": 30,
+				"Length": 51,
+				"Height": 18,
+				"X": -70,
+				"Y": 51,
+				"Ori": 0
+			},
+			{
+				"No": 45,
+				"Width": 30,
+				"Length": 51,
+				"Height": 18,
+				"X": -97,
+				"Y": 40,
+				"Ori": 0
+			},
+			{
+				"No": 46,
+				"Width": 30,
+				"Length": 51,
+				"Height": 18,
+				"X": -64,
+				"Y": 23,
+				"Ori": 1
+			},
+			{
+				"No": 47,
+				"Width": 30,
+				"Length": 51,
+				"Height": 18,
+				"X": -44,
+				"Y": 7,
+				"Ori": 1
+			},
+			{
+				"No": 48,
+				"Width": 30,
+				"Length": 51,
+				"Height": 18,
+				"X": -23,
+				"Y": -9,
+				"Ori": 1
+			}
+		],
+		"OrderStep": [
+			12,
+			11,
+			10,
+			9,
+			8,
+			7,
+			6,
+			5,
+			4,
+			3,
+			2,
+			1,
+			24,
+			23,
+			22,
+			21,
+			20,
+			19,
+			18,
+			17,
+			16,
+			15,
+			14,
+			13,
+			36,
+			35,
+			34,
+			33,
+			32,
+			31,
+			30,
+			29,
+			28,
+			27,
+			26,
+			25,
+			48,
+			47,
+			46,
+			45,
+			44,
+			43,
+			42,
+			41,
+			40,
+			39,
+			38,
+			37
+		]
+	},
+	{
+		"Pattern": "S0844",
+		"YStep1": 37,
+		"YStep2": 0,
+		"BDS": [
+			{
+				"No": 1,
+				"Width": 45,
+				"Length": 60,
+				"Height": 18,
+				"X": -3,
+				"Y": 128,
+				"Ori": 0
+			},
+			{
+				"No": 2,
+				"Width": 45,
+				"Length": 60,
+				"Height": 18,
+				"X": -43,
+				"Y": 112,
+				"Ori": 0
+			},
+			{
+				"No": 3,
+				"Width": 45,
+				"Length": 60,
+				"Height": 18,
+				"X": 23,
+				"Y": 99,
+				"Ori": 1
+			},
+			{
+				"No": 4,
+				"Width": 45,
+				"Length": 60,
+				"Height": 18,
+				"X": 52,
+				"Y": 74,
+				"Ori": 1
+			},
+			{
+				"No": 5,
+				"Width": 45,
+				"Length": 60,
+				"Height": 18,
+				"X": -93,
+				"Y": 97,
+				"Ori": 1
+			},
+			{
+				"No": 6,
+				"Width": 45,
+				"Length": 60,
+				"Height": 18,
+				"X": -65,
+				"Y": 73,
+				"Ori": 1
+			},
+			{
+				"No": 7,
+				"Width": 45,
+				"Length": 60,
+				"Height": 18,
+				"X": 3,
+				"Y": 59,
+				"Ori": 0
+			},
+			{
+				"No": 8,
+				"Width": 45,
+				"Length": 60,
+				"Height": 18,
+				"X": -37,
+				"Y": 44,
+				"Ori": 0
+			},
+			{
+				"No": 9,
+				"Width": 45,
+				"Length": 60,
+				"Height": 18,
+				"X": -13,
+				"Y": 111,
+				"Ori": 1
+			},
+			{
+				"No": 10,
+				"Width": 45,
+				"Length": 60,
+				"Height": 18,
+				"X": 15,
+				"Y": 87,
+				"Ori": 1
+			},
+			{
+				"No": 11,
+				"Width": 45,
+				"Length": 60,
+				"Height": 18,
+				"X": -54,
+				"Y": 89,
+				"Ori": 0
+			},
+			{
+				"No": 12,
+				"Width": 45,
+				"Length": 60,
+				"Height": 18,
+				"X": -94,
+				"Y": 73,
+				"Ori": 0
+			},
+			{
+				"No": 13,
+				"Width": 45,
+				"Length": 60,
+				"Height": 18,
+				"X": 54,
+				"Y": 61,
+				"Ori": 0
+			},
+			{
+				"No": 14,
+				"Width": 45,
+				"Length": 60,
+				"Height": 18,
+				"X": 14,
+				"Y": 46,
+				"Ori": 0
+			},
+			{
+				"No": 15,
+				"Width": 45,
+				"Length": 60,
+				"Height": 18,
+				"X": -57,
+				"Y": 49,
+				"Ori": 1
+			},
+			{
+				"No": 16,
+				"Width": 45,
+				"Length": 60,
+				"Height": 18,
+				"X": -28,
+				"Y": 26,
+				"Ori": 1
+			},
+			{
+				"No": 17,
+				"Width": 45,
+				"Length": 60,
+				"Height": 18,
+				"X": -3,
+				"Y": 91,
+				"Ori": 0
+			},
+			{
+				"No": 18,
+				"Width": 45,
+				"Length": 60,
+				"Height": 18,
+				"X": -43,
+				"Y": 75,
+				"Ori": 0
+			},
+			{
+				"No": 19,
+				"Width": 45,
+				"Length": 60,
+				"Height": 18,
+				"X": 23,
+				"Y": 61,
+				"Ori": 1
+			},
+			{
+				"No": 20,
+				"Width": 45,
+				"Length": 60,
+				"Height": 18,
+				"X": 51,
+				"Y": 37,
+				"Ori": 1
+			},
+			{
+				"No": 21,
+				"Width": 45,
+				"Length": 60,
+				"Height": 18,
+				"X": -94,
+				"Y": 60,
+				"Ori": 1
+			},
+			{
+				"No": 22,
+				"Width": 45,
+				"Length": 60,
+				"Height": 18,
+				"X": -66,
+				"Y": 36,
+				"Ori": 1
+			},
+			{
+				"No": 23,
+				"Width": 45,
+				"Length": 60,
+				"Height": 18,
+				"X": 2,
+				"Y": 21,
+				"Ori": 0
+			},
+			{
+				"No": 24,
+				"Width": 45,
+				"Length": 60,
+				"Height": 18,
+				"X": -39,
+				"Y": 6,
+				"Ori": 0
+			},
+			{
+				"No": 25,
+				"Width": 45,
+				"Length": 60,
+				"Height": 18,
+				"X": -13,
+				"Y": 74,
+				"Ori": 1
+			},
+			{
+				"No": 26,
+				"Width": 45,
+				"Length": 60,
+				"Height": 18,
+				"X": 14,
+				"Y": 50,
+				"Ori": 1
+			},
+			{
+				"No": 27,
+				"Width": 45,
+				"Length": 60,
+				"Height": 18,
+				"X": -55,
+				"Y": 51,
+				"Ori": 0
+			},
+			{
+				"No": 28,
+				"Width": 45,
+				"Length": 60,
+				"Height": 18,
+				"X": -95,
+				"Y": 34,
+				"Ori": 0
+			},
+			{
+				"No": 29,
+				"Width": 45,
+				"Length": 60,
+				"Height": 18,
+				"X": 53,
+				"Y": 24,
+				"Ori": 0
+			},
+			{
+				"No": 30,
+				"Width": 45,
+				"Length": 60,
+				"Height": 18,
+				"X": 12,
+				"Y": 8,
+				"Ori": 0
+			},
+			{
+				"No": 31,
+				"Width": 45,
+				"Length": 60,
+				"Height": 18,
+				"X": -58,
+				"Y": 9,
+				"Ori": 1
+			},
+			{
+				"No": 32,
+				"Width": 45,
+				"Length": 60,
+				"Height": 18,
+				"X": -29,
+				"Y": -15,
+				"Ori": 1
+			}
+		],
+		"OrderStep": [
+			8,
+			7,
+			6,
+			5,
+			4,
+			3,
+			2,
+			1,
+			16,
+			15,
+			14,
+			13,
+			12,
+			11,
+			10,
+			9,
+			24,
+			23,
+			22,
+			21,
+			20,
+			19,
+			18,
+			17,
+			32,
+			31,
+			30,
+			29,
+			28,
+			27,
+			26,
+			25
+		]
+	},
+	{
+		"Pattern": "I0752",
+		"YStep1": 37,
+		"YStep2": 0,
+		"BDS": [
+			{
+				"No": 1,
+				"Width": 33,
+				"Length": 87,
+				"Height": 18,
+				"X": -12,
+				"Y": 122,
+				"Ori": 1
+			},
+			{
+				"No": 2,
+				"Width": 33,
+				"Length": 87,
+				"Height": 18,
+				"X": 48,
+				"Y": 100,
+				"Ori": 0
+			},
+			{
+				"No": 3,
+				"Width": 33,
+				"Length": 87,
+				"Height": 18,
+				"X": 18,
+				"Y": 87,
+				"Ori": 0
+			},
+			{
+				"No": 4,
+				"Width": 33,
+				"Length": 87,
+				"Height": 18,
+				"X": -88,
+				"Y": 92,
+				"Ori": 1
+			},
+			{
+				"No": 5,
+				"Width": 33,
+				"Length": 87,
+				"Height": 18,
+				"X": -12,
+				"Y": 75,
+				"Ori": 0
+			},
+			{
+				"No": 6,
+				"Width": 33,
+				"Length": 87,
+				"Height": 18,
+				"X": -42,
+				"Y": 63,
+				"Ori": 0
+			},
+			{
+				"No": 7,
+				"Width": 33,
+				"Length": 87,
+				"Height": 18,
+				"X": -71,
+				"Y": 51,
+				"Ori": 0
+			},
+			{
+				"No": 8,
+				"Width": 33,
+				"Length": 87,
+				"Height": 18,
+				"X": 25,
+				"Y": 101,
+				"Ori": 0
+			},
+			{
+				"No": 9,
+				"Width": 33,
+				"Length": 87,
+				"Height": 18,
+				"X": -5,
+				"Y": 88,
+				"Ori": 0
+			},
+			{
+				"No": 10,
+				"Width": 33,
+				"Length": 87,
+				"Height": 18,
+				"X": -35,
+				"Y": 76,
+				"Ori": 0
+			},
+			{
+				"No": 11,
+				"Width": 33,
+				"Length": 87,
+				"Height": 18,
+				"X": 38,
+				"Y": 61,
+				"Ori": 1
+			},
+			{
+				"No": 12,
+				"Width": 33,
+				"Length": 87,
+				"Height": 18,
+				"X": -66,
+				"Y": 64,
+				"Ori": 0
+			},
+			{
+				"No": 13,
+				"Width": 33,
+				"Length": 87,
+				"Height": 18,
+				"X": -96,
+				"Y": 52,
+				"Ori": 0
+			},
+			{
+				"No": 14,
+				"Width": 33,
+				"Length": 87,
+				"Height": 18,
+				"X": -38,
+				"Y": 31,
+				"Ori": 1
+			},
+			{
+				"No": 15,
+				"Width": 33,
+				"Length": 87,
+				"Height": 18,
+				"X": -13,
+				"Y": 85,
+				"Ori": 1
+			},
+			{
+				"No": 16,
+				"Width": 33,
+				"Length": 87,
+				"Height": 18,
+				"X": 47,
+				"Y": 63,
+				"Ori": 0
+			},
+			{
+				"No": 17,
+				"Width": 33,
+				"Length": 87,
+				"Height": 18,
+				"X": 17,
+				"Y": 51,
+				"Ori": 0
+			},
+			{
+				"No": 18,
+				"Width": 33,
+				"Length": 87,
+				"Height": 18,
+				"X": -91,
+				"Y": 54,
+				"Ori": 1
+			},
+			{
+				"No": 19,
+				"Width": 33,
+				"Length": 87,
+				"Height": 18,
+				"X": -13,
+				"Y": 39,
+				"Ori": 0
+			},
+			{
+				"No": 20,
+				"Width": 33,
+				"Length": 87,
+				"Height": 18,
+				"X": -44,
+				"Y": 27,
+				"Ori": 0
+			},
+			{
+				"No": 21,
+				"Width": 33,
+				"Length": 87,
+				"Height": 18,
+				"X": -75,
+				"Y": 15,
+				"Ori": 0
+			},
+			{
+				"No": 22,
+				"Width": 33,
+				"Length": 87,
+				"Height": 18,
+				"X": 24,
+				"Y": 63,
+				"Ori": 0
+			},
+			{
+				"No": 23,
+				"Width": 33,
+				"Length": 87,
+				"Height": 18,
+				"X": -6,
+				"Y": 51,
+				"Ori": 0
+			},
+			{
+				"No": 24,
+				"Width": 33,
+				"Length": 87,
+				"Height": 18,
+				"X": -36,
+				"Y": 39,
+				"Ori": 0
+			},
+			{
+				"No": 25,
+				"Width": 33,
+				"Length": 87,
+				"Height": 18,
+				"X": 37,
+				"Y": 24,
+				"Ori": 1
+			},
+			{
+				"No": 26,
+				"Width": 33,
+				"Length": 87,
+				"Height": 18,
+				"X": -66,
+				"Y": 27,
+				"Ori": 0
+			},
+			{
+				"No": 27,
+				"Width": 33,
+				"Length": 87,
+				"Height": 18,
+				"X": -96,
+				"Y": 14,
+				"Ori": 0
+			},
+			{
+				"No": 28,
+				"Width": 33,
+				"Length": 87,
+				"Height": 18,
+				"X": -38,
+				"Y": -6,
+				"Ori": 1
+			}
+		],
+		"OrderStep": [
+			7,
+			6,
+			5,
+			4,
+			3,
+			2,
+			1,
+			14,
+			13,
+			12,
+			11,
+			10,
+			9,
+			8,
+			21,
+			20,
+			19,
+			18,
+			17,
+			16,
+			15,
+			28,
+			27,
+			26,
+			25,
+			24,
+			23,
+			22
+		]
+	},
+	{
+		"Pattern": "I0734",
+		"YStep1": 37,
+		"YStep2": 0,
+		"BDS": [
+			{
+				"No": 1,
+				"Width": 45,
+				"Length": 68,
+				"Height": 18,
+				"X": 10,
+				"Y": 121,
+				"Ori": 0
+			},
+			{
+				"No": 2,
+				"Width": 45,
+				"Length": 68,
+				"Height": 18,
+				"X": 52,
+				"Y": 85,
+				"Ori": 0
+			},
+			{
+				"No": 3,
+				"Width": 45,
+				"Length": 68,
+				"Height": 18,
+				"X": -30,
+				"Y": 105,
+				"Ori": 0
+			},
+			{
+				"No": 4,
+				"Width": 45,
+				"Length": 68,
+				"Height": 18,
+				"X": 13,
+				"Y": 69,
+				"Ori": 0
+			},
+			{
+				"No": 5,
+				"Width": 45,
+				"Length": 68,
+				"Height": 18,
+				"X": -86,
+				"Y": 90,
+				"Ori": 1
+			},
+			{
+				"No": 6,
+				"Width": 45,
+				"Length": 68,
+				"Height": 18,
+				"X": -57,
+				"Y": 67,
+				"Ori": 1
+			},
+			{
+				"No": 7,
+				"Width": 45,
+				"Length": 68,
+				"Height": 18,
+				"X": -29,
+				"Y": 44,
+				"Ori": 1
+			},
+			{
+				"No": 8,
+				"Width": 45,
+				"Length": 68,
+				"Height": 18,
+				"X": -6,
+				"Y": 104,
+				"Ori": 1
+			},
+			{
+				"No": 9,
+				"Width": 45,
+				"Length": 68,
+				"Height": 18,
+				"X": 21,
+				"Y": 81,
+				"Ori": 1
+			},
+			{
+				"No": 10,
+				"Width": 45,
+				"Length": 68,
+				"Height": 18,
+				"X": -49,
+				"Y": 79,
+				"Ori": 0
+			},
+			{
+				"No": 11,
+				"Width": 45,
+				"Length": 68,
+				"Height": 18,
+				"X": 49,
+				"Y": 58,
+				"Ori": 1
+			},
+			{
+				"No": 12,
+				"Width": 45,
+				"Length": 68,
+				"Height": 18,
+				"X": -4,
+				"Y": 42,
+				"Ori": 0
+			},
+			{
+				"No": 13,
+				"Width": 45,
+				"Length": 68,
+				"Height": 18,
+				"X": -88,
+				"Y": 63,
+				"Ori": 0
+			},
+			{
+				"No": 14,
+				"Width": 45,
+				"Length": 68,
+				"Height": 18,
+				"X": -43,
+				"Y": 27,
+				"Ori": 0
+			},
+			{
+				"No": 15,
+				"Width": 45,
+				"Length": 68,
+				"Height": 18,
+				"X": 9,
+				"Y": 84,
+				"Ori": 0
+			},
+			{
+				"No": 16,
+				"Width": 45,
+				"Length": 68,
+				"Height": 18,
+				"X": 52,
+				"Y": 48,
+				"Ori": 0
+			},
+			{
+				"No": 17,
+				"Width": 45,
+				"Length": 68,
+				"Height": 18,
+				"X": -30,
+				"Y": 68,
+				"Ori": 0
+			},
+			{
+				"No": 18,
+				"Width": 45,
+				"Length": 68,
+				"Height": 18,
+				"X": 12,
+				"Y": 32,
+				"Ori": 0
+			},
+			{
+				"No": 19,
+				"Width": 45,
+				"Length": 68,
+				"Height": 18,
+				"X": -86,
+				"Y": 53,
+				"Ori": 1
+			},
+			{
+				"No": 20,
+				"Width": 45,
+				"Length": 68,
+				"Height": 18,
+				"X": -58,
+				"Y": 31,
+				"Ori": 1
+			},
+			{
+				"No": 21,
+				"Width": 45,
+				"Length": 68,
+				"Height": 18,
+				"X": -31,
+				"Y": 8,
+				"Ori": 1
+			},
+			{
+				"No": 22,
+				"Width": 45,
+				"Length": 68,
+				"Height": 18,
+				"X": -6,
+				"Y": 67,
+				"Ori": 1
+			},
+			{
+				"No": 23,
+				"Width": 45,
+				"Length": 68,
+				"Height": 18,
+				"X": 21,
+				"Y": 44,
+				"Ori": 1
+			},
+			{
+				"No": 24,
+				"Width": 45,
+				"Length": 68,
+				"Height": 18,
+				"X": 49,
+				"Y": 20,
+				"Ori": 1
+			},
+			{
+				"No": 25,
+				"Width": 45,
+				"Length": 68,
+				"Height": 18,
+				"X": -49,
+				"Y": 42,
+				"Ori": 0
+			},
+			{
+				"No": 26,
+				"Width": 45,
+				"Length": 68,
+				"Height": 18,
+				"X": -4,
+				"Y": 4,
+				"Ori": 0
+			},
+			{
+				"No": 27,
+				"Width": 45,
+				"Length": 68,
+				"Height": 18,
+				"X": -88,
+				"Y": 26,
+				"Ori": 0
+			},
+			{
+				"No": 28,
+				"Width": 45,
+				"Length": 68,
+				"Height": 18,
+				"X": -44,
+				"Y": -12,
+				"Ori": 0
+			}
+		],
+		"OrderStep": [
+			7,
+			6,
+			5,
+			4,
+			3,
+			2,
+			1,
+			14,
+			13,
+			12,
+			11,
+			10,
+			9,
+			8,
+			21,
+			20,
+			19,
+			18,
+			17,
+			16,
+			15,
+			28,
+			27,
+			26,
+			25,
+			24,
+			23,
+			22
+		]
+	},
+	{
+		"Pattern": "C0919",
+		"YStep1": 13,
+		"YStep2": 0,
+		"BDS": [
+			{
+				"No": 1,
+				"Width": 20,
+				"Length": 120,
+				"Height": 12,
+				"X": 50,
+				"Y": 117,
+				"Ori": 0
+			},
+			{
+				"No": 2,
+				"Width": 20,
+				"Length": 120,
+				"Height": 12,
+				"X": 32,
+				"Y": 109,
+				"Ori": 0
+			},
+			{
+				"No": 3,
+				"Width": 20,
+				"Length": 120,
+				"Height": 12,
+				"X": 14,
+				"Y": 102,
+				"Ori": 0
+			},
+			{
+				"No": 4,
+				"Width": 20,
+				"Length": 120,
+				"Height": 12,
+				"X": -4,
+				"Y": 95,
+				"Ori": 0
+			},
+			{
+				"No": 5,
+				"Width": 20,
+				"Length": 120,
+				"Height": 12,
+				"X": -22,
+				"Y": 87,
+				"Ori": 0
+			},
+			{
+				"No": 6,
+				"Width": 20,
+				"Length": 120,
+				"Height": 12,
+				"X": -40,
+				"Y": 80,
+				"Ori": 0
+			},
+			{
+				"No": 7,
+				"Width": 20,
+				"Length": 120,
+				"Height": 12,
+				"X": -58,
+				"Y": 73,
+				"Ori": 0
+			},
+			{
+				"No": 8,
+				"Width": 20,
+				"Length": 120,
+				"Height": 12,
+				"X": -76,
+				"Y": 66,
+				"Ori": 0
+			},
+			{
+				"No": 9,
+				"Width": 20,
+				"Length": 120,
+				"Height": 12,
+				"X": -93,
+				"Y": 58,
+				"Ori": 0
+			},
+			{
+				"No": 10,
+				"Width": 20,
+				"Length": 120,
+				"Height": 12,
+				"X": 50,
+				"Y": 104,
+				"Ori": 0
+			},
+			{
+				"No": 11,
+				"Width": 20,
+				"Length": 120,
+				"Height": 12,
+				"X": 32,
+				"Y": 96,
+				"Ori": 0
+			},
+			{
+				"No": 12,
+				"Width": 20,
+				"Length": 120,
+				"Height": 12,
+				"X": 14,
+				"Y": 89,
+				"Ori": 0
+			},
+			{
+				"No": 13,
+				"Width": 20,
+				"Length": 120,
+				"Height": 12,
+				"X": -4,
+				"Y": 82,
+				"Ori": 0
+			},
+			{
+				"No": 14,
+				"Width": 20,
+				"Length": 120,
+				"Height": 12,
+				"X": -22,
+				"Y": 74,
+				"Ori": 0
+			},
+			{
+				"No": 15,
+				"Width": 20,
+				"Length": 120,
+				"Height": 12,
+				"X": -40,
+				"Y": 67,
+				"Ori": 0
+			},
+			{
+				"No": 16,
+				"Width": 20,
+				"Length": 120,
+				"Height": 12,
+				"X": -58,
+				"Y": 60,
+				"Ori": 0
+			},
+			{
+				"No": 17,
+				"Width": 20,
+				"Length": 120,
+				"Height": 12,
+				"X": -75,
+				"Y": 53,
+				"Ori": 0
+			},
+			{
+				"No": 18,
+				"Width": 20,
+				"Length": 120,
+				"Height": 12,
+				"X": -92,
+				"Y": 45,
+				"Ori": 0
+			}
+		],
+		"OrderStep": [
+			9,
+			8,
+			7,
+			6,
+			5,
+			4,
+			3,
+			2,
+			1,
+			18,
+			17,
+			16,
+			15,
+			14,
+			13,
+			12,
+			11,
+			10
+		]
+	},
+	{
+		"Pattern": "C0824",
+		"YStep1": 19,
+		"YStep2": 0,
+		"BDS": [
+			{
+				"No": 1,
+				"Width": 42,
+				"Length": 68,
+				"Height": 18,
+				"X": 14,
+				"Y": 124,
+				"Ori": 0
+			},
+			{
+				"No": 2,
+				"Width": 42,
+				"Length": 68,
+				"Height": 18,
+				"X": -24,
+				"Y": 109,
+				"Ori": 0
+			},
+			{
+				"No": 3,
+				"Width": 42,
+				"Length": 68,
+				"Height": 18,
+				"X": 55,
+				"Y": 90,
+				"Ori": 0
+			},
+			{
+				"No": 4,
+				"Width": 42,
+				"Length": 68,
+				"Height": 18,
+				"X": 17,
+				"Y": 75,
+				"Ori": 0
+			},
+			{
+				"No": 5,
+				"Width": 42,
+				"Length": 68,
+				"Height": 18,
+				"X": -62,
+				"Y": 94,
+				"Ori": 0
+			},
+			{
+				"No": 6,
+				"Width": 42,
+				"Length": 68,
+				"Height": 18,
+				"X": -21,
+				"Y": 60,
+				"Ori": 0
+			},
+			{
+				"No": 7,
+				"Width": 42,
+				"Length": 68,
+				"Height": 18,
+				"X": -100,
+				"Y": 79,
+				"Ori": 0
+			},
+			{
+				"No": 8,
+				"Width": 42,
+				"Length": 68,
+				"Height": 18,
+				"X": -58,
+				"Y": 45,
+				"Ori": 0
+			},
+			{
+				"No": 9,
+				"Width": 42,
+				"Length": 68,
+				"Height": 18,
+				"X": 14,
+				"Y": 105,
+				"Ori": 0
+			},
+			{
+				"No": 10,
+				"Width": 42,
+				"Length": 68,
+				"Height": 18,
+				"X": -24,
+				"Y": 90,
+				"Ori": 0
+			},
+			{
+				"No": 11,
+				"Width": 42,
+				"Length": 68,
+				"Height": 18,
+				"X": 55,
+				"Y": 71,
+				"Ori": 0
+			},
+			{
+				"No": 12,
+				"Width": 42,
+				"Length": 68,
+				"Height": 18,
+				"X": 18,
+				"Y": 56,
+				"Ori": 0
+			},
+			{
+				"No": 13,
+				"Width": 42,
+				"Length": 68,
+				"Height": 18,
+				"X": -62,
+				"Y": 75,
+				"Ori": 0
+			},
+			{
+				"No": 14,
+				"Width": 42,
+				"Length": 68,
+				"Height": 18,
+				"X": -19,
+				"Y": 41,
+				"Ori": 0
+			},
+			{
+				"No": 15,
+				"Width": 42,
+				"Length": 68,
+				"Height": 18,
+				"X": -100,
+				"Y": 60,
+				"Ori": 0
+			},
+			{
+				"No": 16,
+				"Width": 42,
+				"Length": 68,
+				"Height": 18,
+				"X": -57,
+				"Y": 26,
+				"Ori": 0
+			}
+		],
+		"OrderStep": [
+			8,
+			7,
+			6,
+			5,
+			4,
+			3,
+			2,
+			1,
+			16,
+			15,
+			14,
+			13,
+			12,
+			11,
+			10,
+			9
+		]
+	},
+	{
+		"Pattern": "C1243",
+		"YStep1": 19,
+		"YStep2": 0,
+		"BDS": [
+			{
+				"No": 1,
+				"Width": 33,
+				"Length": 60,
+				"Height": 18,
+				"X": -2,
+				"Y": 138,
+				"Ori": 1
+			},
+			{
+				"No": 2,
+				"Width": 33,
+				"Length": 60,
+				"Height": 18,
+				"X": -54,
+				"Y": 117,
+				"Ori": 1
+			},
+			{
+				"No": 3,
+				"Width": 33,
+				"Length": 60,
+				"Height": 18,
+				"X": 20,
+				"Y": 120,
+				"Ori": 1
+			},
+			{
+				"No": 4,
+				"Width": 33,
+				"Length": 60,
+				"Height": 18,
+				"X": 42,
+				"Y": 101,
+				"Ori": 1
+			},
+			{
+				"No": 5,
+				"Width": 33,
+				"Length": 60,
+				"Height": 18,
+				"X": -32,
+				"Y": 99,
+				"Ori": 1
+			},
+			{
+				"No": 6,
+				"Width": 33,
+				"Length": 60,
+				"Height": 18,
+				"X": 64,
+				"Y": 83,
+				"Ori": 1
+			},
+			{
+				"No": 7,
+				"Width": 33,
+				"Length": 60,
+				"Height": 18,
+				"X": -10,
+				"Y": 80,
+				"Ori": 1
+			},
+			{
+				"No": 8,
+				"Width": 33,
+				"Length": 60,
+				"Height": 18,
+				"X": -106,
+				"Y": 96,
+				"Ori": 1
+			},
+			{
+				"No": 9,
+				"Width": 33,
+				"Length": 60,
+				"Height": 18,
+				"X": -84,
+				"Y": 78,
+				"Ori": 1
+			},
+			{
+				"No": 10,
+				"Width": 33,
+				"Length": 60,
+				"Height": 18,
+				"X": 12,
+				"Y": 62,
+				"Ori": 1
+			},
+			{
+				"No": 11,
+				"Width": 33,
+				"Length": 60,
+				"Height": 18,
+				"X": -62,
+				"Y": 59,
+				"Ori": 1
+			},
+			{
+				"No": 12,
+				"Width": 33,
+				"Length": 60,
+				"Height": 18,
+				"X": -40,
+				"Y": 41,
+				"Ori": 1
+			},
+			{
+				"No": 13,
+				"Width": 33,
+				"Length": 60,
+				"Height": 18,
+				"X": -2,
+				"Y": 119,
+				"Ori": 1
+			},
+			{
+				"No": 14,
+				"Width": 33,
+				"Length": 60,
+				"Height": 18,
+				"X": -54,
+				"Y": 98,
+				"Ori": 1
+			},
+			{
+				"No": 15,
+				"Width": 33,
+				"Length": 60,
+				"Height": 18,
+				"X": 20,
+				"Y": 101,
+				"Ori": 1
+			},
+			{
+				"No": 16,
+				"Width": 33,
+				"Length": 60,
+				"Height": 18,
+				"X": 41,
+				"Y": 83,
+				"Ori": 1
+			},
+			{
+				"No": 17,
+				"Width": 33,
+				"Length": 60,
+				"Height": 18,
+				"X": -32,
+				"Y": 79,
+				"Ori": 1
+			},
+			{
+				"No": 18,
+				"Width": 33,
+				"Length": 60,
+				"Height": 18,
+				"X": -106,
+				"Y": 77,
+				"Ori": 1
+			},
+			{
+				"No": 19,
+				"Width": 33,
+				"Length": 60,
+				"Height": 18,
+				"X": 62,
+				"Y": 65,
+				"Ori": 1
+			},
+			{
+				"No": 20,
+				"Width": 33,
+				"Length": 60,
+				"Height": 18,
+				"X": -10,
+				"Y": 61,
+				"Ori": 1
+			},
+			{
+				"No": 21,
+				"Width": 33,
+				"Length": 60,
+				"Height": 18,
+				"X": -84,
+				"Y": 58,
+				"Ori": 1
+			},
+			{
+				"No": 22,
+				"Width": 33,
+				"Length": 60,
+				"Height": 18,
+				"X": 11,
+				"Y": 43,
+				"Ori": 1
+			},
+			{
+				"No": 23,
+				"Width": 33,
+				"Length": 60,
+				"Height": 18,
+				"X": -62,
+				"Y": 39,
+				"Ori": 1
+			},
+			{
+				"No": 24,
+				"Width": 33,
+				"Length": 60,
+				"Height": 18,
+				"X": -40,
+				"Y": 21,
+				"Ori": 1
+			}
+		],
+		"OrderStep": [
+			12,
+			11,
+			10,
+			9,
+			8,
+			7,
+			6,
+			5,
+			4,
+			3,
+			2,
+			1,
+			24,
+			23,
+			22,
+			21,
+			20,
+			19,
+			18,
+			17,
+			16,
+			15,
+			14,
+			13
+		]
+	},
+	{
+		"Pattern": "C1427",
+		"YStep1": 13,
+		"YStep2": 0,
+		"BDS": [
+			{
+				"No": 1,
+				"Width": 26,
+				"Length": 68,
+				"Height": 12,
+				"X": 29,
+				"Y": 137,
+				"Ori": 0
+			},
+			{
+				"No": 2,
+				"Width": 26,
+				"Length": 68,
+				"Height": 12,
+				"X": 5,
+				"Y": 127,
+				"Ori": 0
+			},
+			{
+				"No": 3,
+				"Width": 26,
+				"Length": 68,
+				"Height": 12,
+				"X": 70,
+				"Y": 103,
+				"Ori": 0
+			},
+			{
+				"No": 4,
+				"Width": 26,
+				"Length": 68,
+				"Height": 12,
+				"X": 46,
+				"Y": 93,
+				"Ori": 0
+			},
+			{
+				"No": 5,
+				"Width": 26,
+				"Length": 68,
+				"Height": 12,
+				"X": -19,
+				"Y": 118,
+				"Ori": 0
+			},
+			{
+				"No": 6,
+				"Width": 26,
+				"Length": 68,
+				"Height": 12,
+				"X": -43,
+				"Y": 108,
+				"Ori": 0
+			},
+			{
+				"No": 7,
+				"Width": 26,
+				"Length": 68,
+				"Height": 12,
+				"X": 21,
+				"Y": 83,
+				"Ori": 0
+			},
+			{
+				"No": 8,
+				"Width": 26,
+				"Length": 68,
+				"Height": 12,
+				"X": -67,
+				"Y": 98,
+				"Ori": 0
+			},
+			{
+				"No": 9,
+				"Width": 26,
+				"Length": 68,
+				"Height": 12,
+				"X": -3,
+				"Y": 73,
+				"Ori": 0
+			},
+			{
+				"No": 10,
+				"Width": 26,
+				"Length": 68,
+				"Height": 12,
+				"X": -91,
+				"Y": 88,
+				"Ori": 0
+			},
+			{
+				"No": 11,
+				"Width": 26,
+				"Length": 68,
+				"Height": 12,
+				"X": -27,
+				"Y": 63,
+				"Ori": 0
+			},
+			{
+				"No": 12,
+				"Width": 26,
+				"Length": 68,
+				"Height": 12,
+				"X": -115,
+				"Y": 78,
+				"Ori": 0
+			},
+			{
+				"No": 13,
+				"Width": 26,
+				"Length": 68,
+				"Height": 12,
+				"X": -50,
+				"Y": 53,
+				"Ori": 0
+			},
+			{
+				"No": 14,
+				"Width": 26,
+				"Length": 68,
+				"Height": 12,
+				"X": -75,
+				"Y": 43,
+				"Ori": 0
+			},
+			{
+				"No": 15,
+				"Width": 26,
+				"Length": 68,
+				"Height": 12,
+				"X": 28,
+				"Y": 124,
+				"Ori": 0
+			},
+			{
+				"No": 16,
+				"Width": 26,
+				"Length": 68,
+				"Height": 12,
+				"X": 4,
+				"Y": 114,
+				"Ori": 0
+			},
+			{
+				"No": 17,
+				"Width": 26,
+				"Length": 68,
+				"Height": 12,
+				"X": 69,
+				"Y": 90,
+				"Ori": 0
+			},
+			{
+				"No": 18,
+				"Width": 26,
+				"Length": 68,
+				"Height": 12,
+				"X": -20,
+				"Y": 104,
+				"Ori": 0
+			},
+			{
+				"No": 19,
+				"Width": 26,
+				"Length": 68,
+				"Height": 12,
+				"X": 45,
+				"Y": 80,
+				"Ori": 0
+			},
+			{
+				"No": 20,
+				"Width": 26,
+				"Length": 68,
+				"Height": 12,
+				"X": -44,
+				"Y": 94,
+				"Ori": 0
+			},
+			{
+				"No": 21,
+				"Width": 26,
+				"Length": 68,
+				"Height": 12,
+				"X": 21,
+				"Y": 70,
+				"Ori": 0
+			},
+			{
+				"No": 22,
+				"Width": 26,
+				"Length": 68,
+				"Height": 12,
+				"X": -68,
+				"Y": 84,
+				"Ori": 0
+			},
+			{
+				"No": 23,
+				"Width": 26,
+				"Length": 68,
+				"Height": 12,
+				"X": -3,
+				"Y": 60,
+				"Ori": 0
+			},
+			{
+				"No": 24,
+				"Width": 26,
+				"Length": 68,
+				"Height": 12,
+				"X": -92,
+				"Y": 74,
+				"Ori": 0
+			},
+			{
+				"No": 25,
+				"Width": 26,
+				"Length": 68,
+				"Height": 12,
+				"X": -27,
+				"Y": 50,
+				"Ori": 0
+			},
+			{
+				"No": 26,
+				"Width": 26,
+				"Length": 68,
+				"Height": 12,
+				"X": -116,
+				"Y": 64,
+				"Ori": 0
+			},
+			{
+				"No": 27,
+				"Width": 26,
+				"Length": 68,
+				"Height": 12,
+				"X": -51,
+				"Y": 40,
+				"Ori": 0
+			},
+			{
+				"No": 28,
+				"Width": 26,
+				"Length": 68,
+				"Height": 12,
+				"X": -75,
+				"Y": 30,
+				"Ori": 0
+			}
+		],
+		"OrderStep": [
+			14,
+			13,
+			12,
+			11,
+			10,
+			9,
+			8,
+			7,
+			6,
+			5,
+			4,
+			3,
+			2,
+			1,
+			28,
+			27,
+			26,
+			25,
+			24,
+			23,
+			22,
+			21,
+			20,
+			19,
+			18,
+			17,
+			16,
+			17,
+			16,
+			15
+		]
+	},
+	{
+		"Pattern": "I0312",
+		"YStep1": 39,
+		"YStep2": 0,
+		"BDS": [
+			{
+				"No": 1,
+				"Width": 75,
+				"Length": 53,
+				"Height": 18,
+				"X": -39,
+				"Y": 103,
+				"Ori": 0
+			},
+			{
+				"No": 2,
+				"Width": 75,
+				"Length": 53,
+				"Height": 18,
+				"X": -38,
+				"Y": 63,
+				"Ori": 0
+			},
+			{
+				"No": 3,
+				"Width": 75,
+				"Length": 53,
+				"Height": 18,
+				"X": 27,
+				"Y": 89,
+				"Ori": 0
+			},
+			{
+				"No": 4,
+				"Width": 75,
+				"Length": 53,
+				"Height": 18,
+				"X": -66,
+				"Y": 72,
+				"Ori": 0
+			},
+			{
+				"No": 5,
+				"Width": 75,
+				"Length": 53,
+				"Height": 18,
+				"X": -2,
+				"Y": 98,
+				"Ori": 0
+			},
+			{
+				"No": 6,
+				"Width": 75,
+				"Length": 53,
+				"Height": 18,
+				"X": -7,
+				"Y": 55,
+				"Ori": 0
+			},
+			{
+				"No": 7,
+				"Width": 75,
+				"Length": 53,
+				"Height": 18,
+				"X": -39,
+				"Y": 64,
+				"Ori": 0
+			},
+			{
+				"No": 8,
+				"Width": 75,
+				"Length": 53,
+				"Height": 18,
+				"X": -38,
+				"Y": 25,
+				"Ori": 0
+			},
+			{
+				"No": 9,
+				"Width": 75,
+				"Length": 53,
+				"Height": 18,
+				"X": 27,
+				"Y": 51,
+				"Ori": 0
+			},
+			{
+				"No": 10,
+				"Width": 75,
+				"Length": 53,
+				"Height": 18,
+				"X": -66,
+				"Y": 34,
+				"Ori": 0
+			},
+			{
+				"No": 11,
+				"Width": 75,
+				"Length": 53,
+				"Height": 18,
+				"X": -2,
+				"Y": 60,
+				"Ori": 0
+			},
+			{
+				"No": 12,
+				"Width": 75,
+				"Length": 53,
+				"Height": 18,
+				"X": -7,
+				"Y": 17,
+				"Ori": 0
+			}
+		],
+		"OrderStep": [
+			2,
+			3,
+			1,
+			6,
+			4,
+			5,
+			8,
+			9,
+			7,
+			12,
+			10,
+			11
+		]
+	},
+	{
+		"Pattern": "I1043",
+		"YStep1": 33,
+		"YStep2": 0,
+		"BDS": [
+			{
+				"No": 1,
+				"Width": 38,
+				"Length": 60,
+				"Height": 18,
+				"X": 0,
+				"Y": 131,
+				"Ori": 0
+			},
+			{
+				"No": 2,
+				"Width": 38,
+				"Length": 60,
+				"Height": 18,
+				"X": 59,
+				"Y": 83,
+				"Ori": 0
+			},
+			{
+				"No": 3,
+				"Width": 38,
+				"Length": 60,
+				"Height": 18,
+				"X": -48,
+				"Y": 119,
+				"Ori": 1
+			},
+			{
+				"No": 4,
+				"Width": 38,
+				"Length": 60,
+				"Height": 18,
+				"X": -25,
+				"Y": 100,
+				"Ori": 1
+			},
+			{
+				"No": 5,
+				"Width": 38,
+				"Length": 60,
+				"Height": 18,
+				"X": -1,
+				"Y": 81,
+				"Ori": 1
+			},
+			{
+				"No": 6,
+				"Width": 38,
+				"Length": 60,
+				"Height": 18,
+				"X": 23,
+				"Y": 62,
+				"Ori": 1
+			},
+			{
+				"No": 7,
+				"Width": 38,
+				"Length": 60,
+				"Height": 18,
+				"X": -98,
+				"Y": 98,
+				"Ori": 1
+			},
+			{
+				"No": 8,
+				"Width": 38,
+				"Length": 60,
+				"Height": 18,
+				"X": -74,
+				"Y": 79,
+				"Ori": 1
+			},
+			{
+				"No": 9,
+				"Width": 38,
+				"Length": 60,
+				"Height": 18,
+				"X": -50,
+				"Y": 60,
+				"Ori": 1
+			},
+			{
+				"No": 10,
+				"Width": 38,
+				"Length": 60,
+				"Height": 18,
+				"X": -27,
+				"Y": 41,
+				"Ori": 1
+			},
+			{
+				"No": 11,
+				"Width": 38,
+				"Length": 60,
+				"Height": 18,
+				"X": -15,
+				"Y": 116,
+				"Ori": 1
+			},
+			{
+				"No": 12,
+				"Width": 38,
+				"Length": 60,
+				"Height": 18,
+				"X": 8,
+				"Y": 97,
+				"Ori": 1
+			},
+			{
+				"No": 13,
+				"Width": 38,
+				"Length": 60,
+				"Height": 18,
+				"X": 31,
+				"Y": 78,
+				"Ori": 1
+			},
+			{
+				"No": 14,
+				"Width": 38,
+				"Length": 60,
+				"Height": 18,
+				"X": 54,
+				"Y": 59,
+				"Ori": 1
+			},
+			{
+				"No": 15,
+				"Width": 38,
+				"Length": 60,
+				"Height": 18,
+				"X": -65,
+				"Y": 95,
+				"Ori": 1
+			},
+			{
+				"No": 16,
+				"Width": 38,
+				"Length": 60,
+				"Height": 18,
+				"X": -42,
+				"Y": 76,
+				"Ori": 1
+			},
+			{
+				"No": 17,
+				"Width": 38,
+				"Length": 60,
+				"Height": 18,
+				"X": -18,
+				"Y": 57,
+				"Ori": 1
+			},
+			{
+				"No": 18,
+				"Width": 38,
+				"Length": 60,
+				"Height": 18,
+				"X": 5,
+				"Y": 38,
+				"Ori": 1
+			},
+			{
+				"No": 19,
+				"Width": 38,
+				"Length": 60,
+				"Height": 18,
+				"X": -100,
+				"Y": 72,
+				"Ori": 0
+			},
+			{
+				"No": 20,
+				"Width": 38,
+				"Length": 60,
+				"Height": 18,
+				"X": -42,
+				"Y": 25,
+				"Ori": 0
+			},
+			{
+				"No": 21,
+				"Width": 38,
+				"Length": 60,
+				"Height": 18,
+				"X": 0,
+				"Y": 98,
+				"Ori": 0
+			},
+			{
+				"No": 22,
+				"Width": 38,
+				"Length": 60,
+				"Height": 18,
+				"X": 56,
+				"Y": 52,
+				"Ori": 0
+			},
+			{
+				"No": 23,
+				"Width": 38,
+				"Length": 60,
+				"Height": 18,
+				"X": -48,
+				"Y": 85,
+				"Ori": 1
+			},
+			{
+				"No": 24,
+				"Width": 38,
+				"Length": 60,
+				"Height": 18,
+				"X": -25,
+				"Y": 66,
+				"Ori": 1
+			},
+			{
+				"No": 25,
+				"Width": 38,
+				"Length": 60,
+				"Height": 18,
+				"X": -2,
+				"Y": 47,
+				"Ori": 1
+			},
+			{
+				"No": 26,
+				"Width": 38,
+				"Length": 60,
+				"Height": 18,
+				"X": 21,
+				"Y": 28,
+				"Ori": 1
+			},
+			{
+				"No": 27,
+				"Width": 38,
+				"Length": 60,
+				"Height": 18,
+				"X": -97,
+				"Y": 64,
+				"Ori": 1
+			},
+			{
+				"No": 28,
+				"Width": 38,
+				"Length": 60,
+				"Height": 18,
+				"X": -75,
+				"Y": 45,
+				"Ori": 1
+			},
+			{
+				"No": 29,
+				"Width": 38,
+				"Length": 60,
+				"Height": 18,
+				"X": -52,
+				"Y": 26,
+				"Ori": 1
+			},
+			{
+				"No": 30,
+				"Width": 38,
+				"Length": 60,
+				"Height": 18,
+				"X": -28,
+				"Y": 7,
+				"Ori": 1
+			},
+			{
+				"No": 31,
+				"Width": 38,
+				"Length": 60,
+				"Height": 18,
+				"X": -14,
+				"Y": 84,
+				"Ori": 1
+			},
+			{
+				"No": 32,
+				"Width": 38,
+				"Length": 60,
+				"Height": 18,
+				"X": 8,
+				"Y": 65,
+				"Ori": 1
+			},
+			{
+				"No": 33,
+				"Width": 38,
+				"Length": 60,
+				"Height": 18,
+				"X": 30,
+				"Y": 46,
+				"Ori": 1
+			},
+			{
+				"No": 34,
+				"Width": 38,
+				"Length": 60,
+				"Height": 18,
+				"X": 52,
+				"Y": 27,
+				"Ori": 1
+			},
+			{
+				"No": 35,
+				"Width": 38,
+				"Length": 60,
+				"Height": 18,
+				"X": -64,
+				"Y": 63,
+				"Ori": 1
+			},
+			{
+				"No": 36,
+				"Width": 38,
+				"Length": 60,
+				"Height": 18,
+				"X": -40,
+				"Y": 44,
+				"Ori": 1
+			},
+			{
+				"No": 37,
+				"Width": 38,
+				"Length": 60,
+				"Height": 18,
+				"X": -19,
+				"Y": 24,
+				"Ori": 1
+			},
+			{
+				"No": 38,
+				"Width": 38,
+				"Length": 60,
+				"Height": 18,
+				"X": 6,
+				"Y": 6,
+				"Ori": 1
+			},
+			{
+				"No": 39,
+				"Width": 38,
+				"Length": 60,
+				"Height": 18,
+				"X": -99,
+				"Y": 40,
+				"Ori": 0
+			},
+			{
+				"No": 40,
+				"Width": 38,
+				"Length": 60,
+				"Height": 18,
+				"X": -41,
+				"Y": -7,
+				"Ori": 0
+			}
+		],
+		"OrderStep": [
+			10,
+			9,
+			8,
+			7,
+			6,
+			5,
+			4,
+			3,
+			2,
+			1,
+			20,
+			19,
+			18,
+			17,
+			16,
+			15,
+			14,
+			13,
+			12,
+			11,
+			30,
+			29,
+			28,
+			27,
+			26,
+			25,
+			24,
+			23,
+			22,
+			21,
+			40,
+			39,
+			38,
+			37,
+			36,
+			35,
+			34,
+			33,
+			32,
+			31
+		]
+	},
+	{
+		"Pattern": "I1134",
+		"YStep1": 33,
+		"YStep2": 0,
+		"BDS": [
+			{
+				"No": 1,
+				"Width": 38,
+				"Length": 53,
+				"Height": 18,
+				"X": -8,
+				"Y": 130,
+				"Ori": 1
+			},
+			{
+				"No": 2,
+				"Width": 38,
+				"Length": 53,
+				"Height": 18,
+				"X": 26,
+				"Y": 110,
+				"Ori": 0
+			},
+			{
+				"No": 3,
+				"Width": 38,
+				"Length": 53,
+				"Height": 18,
+				"X": 57,
+				"Y": 85,
+				"Ori": 0
+			},
+			{
+				"No": 4,
+				"Width": 38,
+				"Length": 53,
+				"Height": 18,
+				"X": -52,
+				"Y": 111,
+				"Ori": 1
+			},
+			{
+				"No": 5,
+				"Width": 38,
+				"Length": 53,
+				"Height": 18,
+				"X": -7,
+				"Y": 96,
+				"Ori": 0
+			},
+			{
+				"No": 6,
+				"Width": 38,
+				"Length": 53,
+				"Height": 18,
+				"X": 24,
+				"Y": 71,
+				"Ori": 0
+			},
+			{
+				"No": 7,
+				"Width": 38,
+				"Length": 53,
+				"Height": 18,
+				"X": -96,
+				"Y": 92,
+				"Ori": 1
+			},
+			{
+				"No": 8,
+				"Width": 38,
+				"Length": 53,
+				"Height": 18,
+				"X": -40,
+				"Y": 82,
+				"Ori": 0
+			},
+			{
+				"No": 9,
+				"Width": 38,
+				"Length": 53,
+				"Height": 18,
+				"X": -8,
+				"Y": 57,
+				"Ori": 0
+			},
+			{
+				"No": 10,
+				"Width": 38,
+				"Length": 53,
+				"Height": 18,
+				"X": -73,
+				"Y": 68,
+				"Ori": 0
+			},
+			{
+				"No": 11,
+				"Width": 38,
+				"Length": 53,
+				"Height": 18,
+				"X": -41,
+				"Y": 43,
+				"Ori": 0
+			},
+			{
+				"No": 12,
+				"Width": 38,
+				"Length": 53,
+				"Height": 18,
+				"X": 2,
+				"Y": 113,
+				"Ori": 0
+			},
+			{
+				"No": 13,
+				"Width": 38,
+				"Length": 53,
+				"Height": 18,
+				"X": 33,
+				"Y": 87,
+				"Ori": 0
+			},
+			{
+				"No": 14,
+				"Width": 38,
+				"Length": 53,
+				"Height": 18,
+				"X": -32,
+				"Y": 99,
+				"Ori": 0
+			},
+			{
+				"No": 15,
+				"Width": 38,
+				"Length": 53,
+				"Height": 18,
+				"X": -1,
+				"Y": 73,
+				"Ori": 0
+			},
+			{
+				"No": 16,
+				"Width": 38,
+				"Length": 53,
+				"Height": 18,
+				"X": 56,
+				"Y": 60,
+				"Ori": 1
+			},
+			{
+				"No": 17,
+				"Width": 38,
+				"Length": 53,
+				"Height": 18,
+				"X": -65,
+				"Y": 84,
+				"Ori": 0
+			},
+			{
+				"No": 18,
+				"Width": 38,
+				"Length": 53,
+				"Height": 18,
+				"X": -34,
+				"Y": 58,
+				"Ori": 0
+			},
+			{
+				"No": 19,
+				"Width": 38,
+				"Length": 53,
+				"Height": 18,
+				"X": 11,
+				"Y": 42,
+				"Ori": 1
+			},
+			{
+				"No": 20,
+				"Width": 38,
+				"Length": 53,
+				"Height": 18,
+				"X": -98,
+				"Y": 70,
+				"Ori": 0
+			},
+			{
+				"No": 21,
+				"Width": 38,
+				"Length": 53,
+				"Height": 18,
+				"X": -67,
+				"Y": 44,
+				"Ori": 0
+			},
+			{
+				"No": 22,
+				"Width": 38,
+				"Length": 53,
+				"Height": 18,
+				"X": -34,
+				"Y": 23,
+				"Ori": 1
+			},
+			{
+				"No": 23,
+				"Width": 38,
+				"Length": 53,
+				"Height": 18,
+				"X": -9,
+				"Y": 97,
+				"Ori": 1
+			},
+			{
+				"No": 24,
+				"Width": 38,
+				"Length": 53,
+				"Height": 18,
+				"X": 25,
+				"Y": 77,
+				"Ori": 0
+			},
+			{
+				"No": 25,
+				"Width": 38,
+				"Length": 53,
+				"Height": 18,
+				"X": 56,
+				"Y": 51,
+				"Ori": 0
+			},
+			{
+				"No": 26,
+				"Width": 38,
+				"Length": 53,
+				"Height": 18,
+				"X": -53,
+				"Y": 79,
+				"Ori": 1
+			},
+			{
+				"No": 27,
+				"Width": 38,
+				"Length": 53,
+				"Height": 18,
+				"X": -8,
+				"Y": 64,
+				"Ori": 0
+			},
+			{
+				"No": 28,
+				"Width": 38,
+				"Length": 53,
+				"Height": 18,
+				"X": 23,
+				"Y": 38,
+				"Ori": 0
+			},
+			{
+				"No": 29,
+				"Width": 38,
+				"Length": 53,
+				"Height": 18,
+				"X": -97,
+				"Y": 60,
+				"Ori": 1
+			},
+			{
+				"No": 30,
+				"Width": 38,
+				"Length": 53,
+				"Height": 18,
+				"X": -40,
+				"Y": 50,
+				"Ori": 0
+			},
+			{
+				"No": 31,
+				"Width": 38,
+				"Length": 53,
+				"Height": 18,
+				"X": -9,
+				"Y": 25,
+				"Ori": 0
+			},
+			{
+				"No": 32,
+				"Width": 38,
+				"Length": 53,
+				"Height": 18,
+				"X": -72,
+				"Y": 37,
+				"Ori": 0
+			},
+			{
+				"No": 33,
+				"Width": 38,
+				"Length": 53,
+				"Height": 18,
+				"X": -41,
+				"Y": 12,
+				"Ori": 0
+			},
+			{
+				"No": 34,
+				"Width": 38,
+				"Length": 53,
+				"Height": 18,
+				"X": 1,
+				"Y": 80,
+				"Ori": 0
+			},
+			{
+				"No": 35,
+				"Width": 38,
+				"Length": 53,
+				"Height": 18,
+				"X": 32,
+				"Y": 54,
+				"Ori": 0
+			},
+			{
+				"No": 36,
+				"Width": 38,
+				"Length": 53,
+				"Height": 18,
+				"X": -31,
+				"Y": 67,
+				"Ori": 0
+			},
+			{
+				"No": 37,
+				"Width": 38,
+				"Length": 53,
+				"Height": 18,
+				"X": -1,
+				"Y": 41,
+				"Ori": 0
+			},
+			{
+				"No": 38,
+				"Width": 38,
+				"Length": 53,
+				"Height": 18,
+				"X": 52,
+				"Y": 29,
+				"Ori": 1
+			},
+			{
+				"No": 39,
+				"Width": 38,
+				"Length": 53,
+				"Height": 18,
+				"X": -63,
+				"Y": 53,
+				"Ori": 0
+			},
+			{
+				"No": 40,
+				"Width": 38,
+				"Length": 53,
+				"Height": 18,
+				"X": -33,
+				"Y": 28,
+				"Ori": 0
+			},
+			{
+				"No": 41,
+				"Width": 38,
+				"Length": 53,
+				"Height": 18,
+				"X": 7,
+				"Y": 11,
+				"Ori": 1
+			},
+			{
+				"No": 42,
+				"Width": 38,
+				"Length": 53,
+				"Height": 18,
+				"X": -96,
+				"Y": 40,
+				"Ori": 0
+			},
+			{
+				"No": 43,
+				"Width": 38,
+				"Length": 53,
+				"Height": 18,
+				"X": -65,
+				"Y": 15,
+				"Ori": 0
+			},
+			{
+				"No": 44,
+				"Width": 38,
+				"Length": 53,
+				"Height": 18,
+				"X": -37,
+				"Y": -7,
+				"Ori": 1
+			}
+		],
+		"OrderStep": [
+			11,
+			10,
+			9,
+			8,
+			7,
+			6,
+			5,
+			4,
+			3,
+			2,
+			1,
+			22,
+			21,
+			20,
+			19,
+			18,
+			17,
+			16,
+			15,
+			14,
+			13,
+			12,
+			33,
+			32,
+			31,
+			30,
+			29,
+			28,
+			27,
+			26,
+			25,
+			24,
+			23,
+			44,
+			43,
+			42,
+			41,
+			40,
+			39,
+			38,
+			37,
+			36,
+			35,
+			34
+		]
+	},
+	{
+		"Pattern": "I0221",
+		"YStep1": 26,
+		"YStep2": 0,
+		"BDS": [
+			{
+				"No": 1,
+				"Width": 90,
+				"Length": 105,
+				"Height": 15,
+				"X": 3,
+				"Y": 112,
+				"Ori": 0
+			},
+			{
+				"No": 2,
+				"Width": 90,
+				"Length": 105,
+				"Height": 15,
+				"X": -43,
+				"Y": 66,
+				"Ori": 0
+			},
+			{
+				"No": 3,
+				"Width": 90,
+				"Length": 105,
+				"Height": 15,
+				"X": 3,
+				"Y": 99,
+				"Ori": 0
+			},
+			{
+				"No": 4,
+				"Width": 90,
+				"Length": 105,
+				"Height": 15,
+				"X": -43,
+				"Y": 53,
+				"Ori": 0
+			},
+			{
+				"No": 5,
+				"Width": 90,
+				"Length": 105,
+				"Height": 15,
+				"X": 3,
+				"Y": 86,
+				"Ori": 0
+			},
+			{
+				"No": 6,
+				"Width": 90,
+				"Length": 105,
+				"Height": 15,
+				"X": -43,
+				"Y": 40,
+				"Ori": 0
+			},
+			{
+				"No": 7,
+				"Width": 90,
+				"Length": 105,
+				"Height": 15,
+				"X": 3,
+				"Y": 73,
+				"Ori": 0
+			},
+			{
+				"No": 8,
+				"Width": 90,
+				"Length": 105,
+				"Height": 15,
+				"X": -43,
+				"Y": 27,
+				"Ori": 0
+			}
+		],
+		"OrderStep": [
+			2,
+			1,
+			4,
+			3,
+			6,
+			5,
+			8,
+			7
+		]
+	}
+]

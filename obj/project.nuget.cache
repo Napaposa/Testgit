@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "W4WBRDQorCG4LQiF6pwgmLe5TNnH3s5510vRXEr70w02HDXVsxB8f6PYCl/CFPILtpObELOW/FjD1Bni6i37Dg==",
+  "success": true,
+  "projectFilePath": "C:\\ID4P\\ID4Pv3\\ATD_ID4P - 3.0\\ATD_ID4P\\ATD_ID4P_3_0.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\napaposa\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.9\\microsoft.aspnet.webapi.client.5.2.9.nupkg.sha512",
+    "C:\\Users\\napaposa\\.nuget\\packages\\microsoft.office.interop.excel\\15.0.4795.1001\\microsoft.office.interop.excel.15.0.4795.1001.nupkg.sha512",
+    "C:\\Users\\napaposa\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\napaposa\\.nuget\\packages\\nunit3testadapter\\4.3.1\\nunit3testadapter.4.3.1.nupkg.sha512",
+    "C:\\Users\\napaposa\\.nuget\\packages\\opengl.net\\0.8.4\\opengl.net.0.8.4.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,207 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ATD_ID4P.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="SystemName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">TCCB-3FGR115-PalletizingRobot</Value>
+    </Setting>
+    <Setting Name="Admin_Password" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">1234</Value>
+    </Setting>
+    <Setting Name="UI_DarkMode" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="IP_Robot" Type="System.String" Scope="User">
+      <Value Profile="(Default)">192.168.250.2</Value>
+    </Setting>
+    <Setting Name="IP_PLC" Type="System.String" Scope="User">
+      <Value Profile="(Default)">192.168.250.1</Value>
+    </Setting>
+    <Setting Name="PM3_IP" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">10.28.58.90</Value>
+    </Setting>
+    <Setting Name="PM3_User" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">RobotPalletizer</Value>
+    </Setting>
+    <Setting Name="PM3_Password" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Robot@2020</Value>
+    </Setting>
+    <Setting Name="PM3_Database" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">PMTs</Value>
+    </Setting>
+    <Setting Name="ERP_IP" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">172.31.204.37</Value>
+    </Setting>
+    <Setting Name="ERP_User" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Palletizer</Value>
+    </Setting>
+    <Setting Name="ERP_Password" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">7-Eleven</Value>
+    </Setting>
+    <Setting Name="MasterDB_ConString" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Server=.\SQLExpress;Database=PalletizerDB;Trusted_Connection = yes;</Value>
+    </Setting>
+    <Setting Name="PlugIn_LineNoti" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="PlugIn_LineNoti_Token" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="PlugIn_Grafana" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="PlugIn_Grafana_Url" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Pattern3DFilePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">/Config/Pattern3DData.json</Value>
+    </Setting>
+    <Setting Name="Print_Label" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="Max_TSLayer" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">30</Value>
+    </Setting>
+    <Setting Name="Max_PatLayer" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">4</Value>
+    </Setting>
+    <Setting Name="Max_BDperLayer" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">15</Value>
+    </Setting>
+    <Setting Name="Max_idvBD_OVH_Percent" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">60</Value>
+    </Setting>
+    <Setting Name="Max_PatternScore" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">130</Value>
+    </Setting>
+    <Setting Name="Max_CompleteHeight" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">2400</Value>
+    </Setting>
+    <Setting Name="Sheet_DefaultWeight" Type="System.Decimal" Scope="Application">
+      <Value Profile="(Default)">0.123</Value>
+    </Setting>
+    <Setting Name="BD_NewData_ClearHeight" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="BD_Min_Length" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">350</Value>
+    </Setting>
+    <Setting Name="BD_Max_Length" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">1400</Value>
+    </Setting>
+    <Setting Name="BD_Min_Width" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">240</Value>
+    </Setting>
+    <Setting Name="Grip2BD_Max_BDWidth" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">1200</Value>
+    </Setting>
+    <Setting Name="Grip2BD_Max_BDHeight" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">160</Value>
+    </Setting>
+    <Setting Name="NoLift_Min_BDLength" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">500</Value>
+    </Setting>
+    <Setting Name="BDGap_woFinger" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">50</Value>
+    </Setting>
+    <Setting Name="BDGap_wFinger" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">90</Value>
+    </Setting>
+    <Setting Name="Finger_NewData_AutoSet" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="Finger_Min_BDLength" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">430</Value>
+    </Setting>
+    <Setting Name="Finger_Min_BDWidth" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="Finger_Max_BDLength" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="Finger_Max_BDWidth" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="TS_Min_Width" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">800</Value>
+    </Setting>
+    <Setting Name="TS_Min_Length" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">800</Value>
+    </Setting>
+    <Setting Name="TS_Max_Width" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">1500</Value>
+    </Setting>
+    <Setting Name="TS_Max_Length" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">1500</Value>
+    </Setting>
+    <Setting Name="SQFrame_Height" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">250</Value>
+    </Setting>
+    <Setting Name="I0312_Gap" Type="System.Decimal" Scope="Application">
+      <Value Profile="(Default)">0.3</Value>
+    </Setting>
+    <Setting Name="I0312_Limit_Length" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">950</Value>
+    </Setting>
+    <Setting Name="SQModel" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="Peri_Max_OpenL" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">1900</Value>
+    </Setting>
+    <Setting Name="OrderFromSystem" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="SquaringModel" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="RobotModel" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="Max_OVH" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">150</Value>
+    </Setting>
+    <Setting Name="Peri_Max_CloseW" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">1300</Value>
+    </Setting>
+    <Setting Name="Peri_Max_CloseL" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">1500</Value>
+    </Setting>
+    <Setting Name="SQ_Max_X" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">400</Value>
+    </Setting>
+    <Setting Name="SQ_Max_Y" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">300</Value>
+    </Setting>
+    <Setting Name="Peri_Max_OpenW" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">1600</Value>
+    </Setting>
+    <Setting Name="SystemName1" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="PlantCode" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">TCCB</Value>
+    </Setting>
+    <Setting Name="BD_Max_Width" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">1100</Value>
+    </Setting>
+    <Setting Name="Allow_SlowDCSpd" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="Allow_SoftPlace" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="Allow_FastDCSpd" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="Allow_FastPlace" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="PM3_ERP" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="test" Type="System.String" Scope="User">
+      <Value Profile="(Default)">true</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -1,0 +1,106 @@
+
+        #region WaitingScreen
+        public static void ShowWaiting(bool IsShow = true, string Title = "", string Message = "", string Position = "", int Duration = 0)
+        {
+            try
+            {
+                if (IsShow == true)
+                {
+                    _fWait.TopMost = true;
+                    if (WaitThread != null)
+                    {
+                        if (WaitThread.IsAlive == true)
+                        {
+                            if (!string.IsNullOrEmpty(Title) || !string.IsNullOrEmpty(Message))
+                            {
+                                _fWait.SetMessage(Title, Message);
+                            }
+
+                            return;
+                        }
+                    }
+
+                    WaitThread = new Thread(new ThreadStart(Splash));
+                    WaitThread.IsBackground = true;
+                    if (!string.IsNullOrEmpty(Title) || !string.IsNullOrEmpty(Message))
+                    {
+                        _fWait.SetMessage(Title, Message);
+                    }
+                    WaitThread.Start();
+                }
+                else
+                {
+                    CloseSplash();
+                    //if (WaitThread.IsAlive == false ||
+                    //    WaitThread.ThreadState == ThreadState.Stopped ||
+                    //    WaitThread.ThreadState == ThreadState.Unstarted ||
+                    //    WaitThread.ThreadState == ThreadState.Aborted)
+                    //    return;
+
+
+                    //WaitThread.Abort();
+                }
+            }
+            catch (System.Threading.ThreadAbortException)
+            {
+                //Thread.ResetAbort();
+            }
+            catch (Exception)
+            {
+                //_Log.WriteLog(e.Message, "Fail", this.ToString());
+            }
+        }
+
+        private static void Splash()
+        {
+            try
+            {
+                _fWait = new frmWaiting();
+                Application.Run(_fWait);
+            }
+            catch (System.Threading.ThreadAbortException)
+            {
+                Thread.ResetAbort();
+                //_Log.WriteLog(e.Message, "Fail", this.ToString());
+            }
+        }
+
+        private static void CloseSplash()
+        {
+            if (_fWait.InvokeRequired)
+                _fWait.Invoke(new MethodInvoker(CloseSplash));
+            else
+            {
+                try
+                {
+                    if (WaitThread.IsAlive == false ||
+                        WaitThread.ThreadState == ThreadState.Stopped ||
+                        WaitThread.ThreadState == ThreadState.Unstarted ||
+                        WaitThread.ThreadState == ThreadState.AbortRequested ||
+                        WaitThread.ThreadState == ThreadState.Aborted)
+                        return;
+
+                    WaitThread.Abort();
+                }
+                catch (System.Threading.ThreadAbortException)
+                {
+                    _fWait.Close();
+                    Thread.ResetAbort();
+                }
+
+                //_fWait.Close();
+                //Application.ExitThread();
+            }
+
+        }
+
+        static int GetControlThreadId(Control control)
+        {
+            int threadId = -1;
+            control.Invoke(new Action(() =>
+            {
+                threadId = Thread.CurrentThread.ManagedThreadId;
+            }));
+            return threadId;
+        }
+        #endregion

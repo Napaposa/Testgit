@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\ID4P\\ID4Pv3\\ATD_ID4P - 3.0\\ATD_ID4P\\ATD_ID4P_3_0.csproj": {}
+  },
+  "projects": {
+    "C:\\ID4P\\ID4Pv3\\ATD_ID4P - 3.0\\ATD_ID4P\\ATD_ID4P_3_0.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\ID4P\\ID4Pv3\\ATD_ID4P - 3.0\\ATD_ID4P\\ATD_ID4P_3_0.csproj",
+        "projectName": "ATD_ID4P_3_0",
+        "projectPath": "C:\\ID4P\\ID4Pv3\\ATD_ID4P - 3.0\\ATD_ID4P\\ATD_ID4P_3_0.csproj",
+        "packagesPath": "C:\\Users\\napaposa\\.nuget\\packages\\",
+        "outputPath": "C:\\ID4P\\ID4Pv3\\ATD_ID4P - 3.0\\ATD_ID4P\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\napaposa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "Microsoft.AspNet.WebApi.Client": {
+              "target": "Package",
+              "version": "[5.2.9, )"
+            },
+            "Microsoft.Office.Interop.Excel": {
+              "target": "Package",
+              "version": "[15.0.4795.1001, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.3.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.2, )"
+            },
+            "OpenGL.Net": {
+              "target": "Package",
+              "version": "[0.8.4, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

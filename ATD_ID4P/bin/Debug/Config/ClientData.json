@@ -1,0 +1,93 @@
+{
+  "TieSheetSize": {
+    "Width": 800,
+    "Length": 1000
+  },
+  "Wooden": {
+    "Width": 1000,
+    "Length": 1200,
+    "Heigth": 155
+  },
+  "Plastic": {
+    "Width": 1000,
+    "Length": 1200,
+    "Heigth": 180
+  },
+  "Nopallet": {
+    "Width": 0,
+    "Length": 0,
+    "Heigth": 0
+  },
+  "Custom": {
+    "Width": 0,
+    "Length": 0,
+    "Heigth": 0
+  },
+  "TSSizeOption": [
+    {
+      "ID": 0,
+      "Width": 0,
+      "Length": 0,
+      "Selected": false
+    },
+    {
+      "ID": 0,
+      "Width": 0,
+      "Length": 0,
+      "Selected": false
+    },
+    {
+      "ID": 0,
+      "Width": 0,
+      "Length": 0,
+      "Selected": false
+    },
+    {
+      "ID": 0,
+      "Width": 0,
+      "Length": 0,
+      "Selected": false
+    },
+    {
+      "ID": 0,
+      "Width": 0,
+      "Length": 0,
+      "Selected": false
+    },
+    {
+      "ID": 0,
+      "Width": 0,
+      "Length": 0,
+      "Selected": false
+    },
+    {
+      "ID": 0,
+      "Width": 0,
+      "Length": 0,
+      "Selected": false
+    },
+    {
+      "ID": 0,
+      "Width": 0,
+      "Length": 0,
+      "Selected": false
+    },
+    {
+      "ID": 0,
+      "Width": 0,
+      "Length": 0,
+      "Selected": false
+    },
+    {
+      "ID": 0,
+      "Width": 0,
+      "Length": 0,
+      "Selected": false
+    }
+  ],
+  "Selected_TSWidth": 0,
+  "Selected_TSLength": 0,
+  "Selected_TSText": "",
+  "LastCreateReportDate": "0001-01-01T00:00:00",
+  "LastRunData": null
+}

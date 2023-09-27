@@ -1,0 +1,27 @@
+[
+  {
+    "ID": 1,
+    "Style": "RSC",
+    "Description": "RSC Standard"
+  },
+  {
+    "ID": 2,
+    "Style": "TELE",
+    "Description": "HSC/Tele"
+  },
+  {
+    "ID": 3,
+    "Style": "FOL",
+    "Description": "Full Overlap"
+  },
+  {
+    "ID": 4,
+    "Style": "HFOL",
+    "Description": "Half Sloted Full Overlap"
+  },
+  {
+    "ID": 5,
+    "Style": "Other",
+    "Description": "Other type or Die-Cut"
+  }
+]
